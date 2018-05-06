@@ -2,6 +2,7 @@
 layout: post
 title: Three Research Matters That Matter
 image: /img/research.jpg
+show-avatar: false
 ---
 
 Three often overlooked elements that make for excellent research.
