@@ -52,6 +52,12 @@ It just doesn't happen.
 
 Researchers (particularly in the humanities) rarely publish the failed experiment, the inconclusive study, or the argument that just wouldn't solidify. That's a problem, particularly in fields that often adhere to the scientific method. When a researcher hides a null result, they bias the body of literature on a subject towards the positive, throw away hard-won knowledge, and contribute to an academic publishing culture that privileges positive results over negative. 
 
+<figure>
+  <center> 
+    <img src="/img/null_hypothesis.png" align="middle" alt="xkcd comic 892">
+  </center>
+</figure>
+
 But the gears of change are in motion. Some journals are calling for negative results while others *only* accept negative results.
 
 What positive signs!
