@@ -3,7 +3,6 @@
 layout: post
 title: Three Research Matters That Matter
 image: /img/research.jpg
-tags: [writing, research]
 ---
 
 Presentation, Process, and Negativity
