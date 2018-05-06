@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Three Research Matters That Matter
-subtitle: Presentation, Process, and the Null Result
+title: Research Matters That Matter
 image: /img/research.jpg
 tags: [research, writing]
 ---
 
-### Presentation Matters
+Three often overlooked elements of great research...
+
+### Presentation
 
 It's my opinion that, for writing to be great, it must inform, persuade, and entertain all at once. It's also my opinion that, for academic writing to be great, it must do *exactly the same thing.* 
 
@@ -18,7 +19,7 @@ Engaging prose breaks down that barrier. As a result, the sign fades, the signif
 
 In short, a good argument is self-sufficient, but a great argument isn't.
 
-### The Process Matters
+### The Process
 
 Research in the humanities too frequently appears to come straight from the swirling depths of genius and directly unto the page. The evidence is compelling, the logic is air-tight, and the process is nowhere to be found.
 
@@ -28,7 +29,7 @@ If a given process yields compelling findings, then that alone says something ab
 
 But no useful information ever comes out from a process that no one sees.
 
-### The Negative Result Matters
+### The Negative Result
 
 Imagine a paper titled...
 
