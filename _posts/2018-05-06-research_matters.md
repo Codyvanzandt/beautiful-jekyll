@@ -4,7 +4,7 @@ title: Three Research Matters That Matter
 image: /img/research.jpg
 ---
 
-Three often overlooked elements that make for excellent research.
+Presentation, Process, and Negativity
 
 ### Presentation Matters
 
