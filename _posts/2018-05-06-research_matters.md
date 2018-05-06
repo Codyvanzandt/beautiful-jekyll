@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Three Research Matters That Matter
-image: /img/research.jpeg
+image: /img/research.jpg
 ---
+
+Three often overlooked elements that make for excellent research.
 
 ### Presentation Matters
 
@@ -34,12 +36,12 @@ Imagine a paper titled...
 
 Or another one...
 
-***I Thought I Could Accurately Predict Newspaper Readership from Weather Data: But I Can't***
+***Can Weather Data Accurately Predict Newspaper Readership? Nope.***
 
 It just doesn't happen. 
 
 Researchers (particularly in the humanities) rarely publish the failed experiment, the inconclusive study, or the argument that just wouldn't solidify. That's a problem, particularly in fields that often adhere to the scientific method. When a researcher hides a null result, they bias the body of literature on a subject towards the positive, throw away hard-won knowledge, and contribute to an academic publishing culture that privileges positive results over negative. 
 
-But the gears of change are in motion. Some journals are calling for negative results <cultural analytics>, and while others *only* accept negative results <The Journal of Negative Results>.
+But the gears of change are in motion. Some journals are calling for negative results while others *only* accept negative results.
 
 What positive signs!
