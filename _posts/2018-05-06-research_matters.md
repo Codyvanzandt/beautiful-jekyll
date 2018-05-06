@@ -58,6 +58,6 @@ Researchers (particularly in the humanities) rarely publish the failed experimen
   </center>
 </figure>
 
-But the gears of change are in motion. Some journals are calling for negative results while others *only* accept negative results.
+But the gears of change are in motion. Some journals are [calling for negative results](http://culturalanalytics.org/2018/03/send-us-your-null-results/) while others *only* [accept](http://www.jnr-eeb.org/index.php/jnr/index) [negative](https://jnrbm.biomedcentral.com/) [results](http://revistas.proeditio.com/jonnpr/index).
 
 What positive signs!
