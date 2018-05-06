@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Three Research Matters That Matter
