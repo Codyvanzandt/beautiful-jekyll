@@ -11,6 +11,6 @@ I've taught all sorts of things in all sorts of contexts to all sorts of folks. 
 
 Biographically, I grew up in [Crystal Beach, Texas](crystalbeachlocalnews.com) - a tiny coastal town one hour from the Texas-Lousisana border and ten steps from the Gulf of Mexico. I then got my BA in Computer Science and English from [Rice University](rice.edu) where I also taught guitar, produced shows for the notorious [Marching Owl Band](mob.rice.edu), and directed a rambunctious theater-in-the-round production of Oscar Wilde's The Importance of Being Earnest.
 
-I'm in the process of migrating my scholarship and other important tidbits to this website. As the site grows, you'll find digital humanities scholarship, programming tips, teaching resources, theater scripts, and musings on Things That I Think Matter<sub>TM</sub>.
+I'm in the process of migrating my scholarship and other important tidbits to this website. As the site grows, you'll find digital humanities scholarship, programming tips, teaching resources, theater scripts, and musings on Things That I Think Matter$^{TM}$
 
 My contact information can be found in logo form at the bottom of this page (and most others on the site), although emailing me [here](mailto:cody.a.vanzandt@gmail.com) will likely be fastest. Feel free to reach out - I'll happily respond to any questions or comments.
