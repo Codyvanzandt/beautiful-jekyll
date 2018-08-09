@@ -55,6 +55,7 @@ Researchers (particularly in the humanities) rarely publish the failed experimen
 <figure>
   <center> 
     <img src="/img/null_hypothesis.png" align="middle" alt="xkcd comic 892">
+    <figcaption>Attribution: xkcd.com</figcaption>
   </center>
 </figure>
 
