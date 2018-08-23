@@ -89,7 +89,7 @@ text.extend( value )
 ```
 Ah, much better! `value` goes *in*, `text` comes *out*, and no one is surprised.
 
-### Flags are for Countries, Not for Programmers
+## Flags are for Countries, Not for Programmers
 
 Programmers *love* passing flags to functions. 
 
@@ -134,7 +134,7 @@ class SomeCrazyData(object):
 
 Do yourself a favor: don't use flags unless you *absolutely* have to.
 
-### Leave "None" Alone!
+## Leave "None" Alone!
 
 None is so tempting. But it's usually a sub-optimal idea.
 
