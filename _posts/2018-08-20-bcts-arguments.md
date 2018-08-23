@@ -7,17 +7,13 @@ show-avatar: false
 bigimg: /img/BCTS_background.jpg
 ---
 
-# **Arguments Confuse Don Adriano (And Everyone Else)**
+# **Don Adriano Doesn't Understand Arguments**
 
 In *Love's Labor's Lost*, Don Adriano exclaims,
 
 > Come hither, come hither. How did this argument begin? [8]
 
-He gets confused when he encouters arguments, and so do programmers.
-
-In short, arguments complicate your code. There's no way around it.
-
-Arguments make testing, understanding, and debugging code more difficult, and that difficulty grows *exponentially* in the number of arguments.
+He's confused, and that's perfectly understandable. Arguments complicate code. There's no way around it. They make testing, understanding, and debugging code more difficult, and that difficulty grows *exponentially* in the number of arguments included.
 
 Naturally, our friend Robert C. Martin agrees:
 
@@ -165,3 +161,13 @@ You could...
 Just try not to use None.
 
 If you're still not convinced, consider for a moment that Turing award-winning computer scientist Tony Hoare [believes that None (aka: the null refernece) is a mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare). And he invented it.
+
+## Conclusion
+
+Be careful with arguments. They're so simple on the surface, but they can wreak havoc if you let them run unchcked through your code. You don't have to necessarily agree with my (rather controversial) stances on None and booleans, but you should absolutely take a moment or two to think through the impact that your arguments will have on your functions.
+
+I hope to see you for the next section of **Better Coding Through Shakespeare** where we'll unpack one of the most underrated parts of programming: proper formatting! Ignore it at your peril!
+
+[8] Shakespeare, William. Love's Labor's Lost. III.i
+
+[9] Martin, Robert C. Clean Code. 40
