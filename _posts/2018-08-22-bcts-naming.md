@@ -2,8 +2,7 @@
 layout: post
 title: "Better Coding Through Shakespeare: Naming Things"
 image: /img/BCTS_background.jpg
-tags: [programming, Python, Shakespeare]
-show-avatar: false
+tags: [programming, Python, Shakespeare, BetterCodingThroughShakespeare]
 bigimg: /img/BCTS_background.jpg
 ---
 
