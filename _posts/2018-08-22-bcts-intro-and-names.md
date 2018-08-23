@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Research Matters That Matter
-image: /img/research.jpg
+title: Better Coding Through Shakespeare: Introduction
+image: /img/BCTS_background.jpg
 tags: [research, writing]
 show-avatar: false
-bigimg: /img/research.jpg
+bigimg: /img/BCTS_background.jpg
 ---
