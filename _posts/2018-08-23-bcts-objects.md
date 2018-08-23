@@ -113,8 +113,8 @@ Whatever it is called, the point remains the same: you shoulnd't be afraid to sp
 
 Objects are wonderful, particular in a language like python where *everything* is an object. 
 If you're less than familiar with Python's object-oriented features or if you're laboring under the delusion
-that Python isn't *really* an object-oriented language, then I'd encourage you to spend some in the [Python]("https://docs.python.org/3/reference/datamodel.html")
-[docs]("https://docs.python.org/3/tutorial/classes.html").
+that Python isn't *really* an object-oriented language, then I'd encourage you to spend some in the [Python](https://docs.python.org/3/reference/datamodel.html)
+[docs](https://docs.python.org/3/tutorial/classes.html).
 
 Thanks for reading! I hope you'll tune in for the final installment of **Better Coding Through Shakespeare**. There's nothing left but the conclusion!
 
