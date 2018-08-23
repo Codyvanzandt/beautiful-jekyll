@@ -177,3 +177,13 @@ I think you'll see the difference.
 
 Regardless, I hope to see you in the next section of **Better Coding Through Shakespeare** - we're taking on arguments!
 
+[3] Shakespeare, William. *A Midsummer Night's Dream.* III.ii
+
+[4] Thanks, Mom!
+
+[5] Martin, Robert C. *Clean Code.* 34
+
+[6]  Fowler, Martin. https://martinfowler.com/bliki/FunctionLength.html 
+
+[7]  Martin, Robert C. *Clean Code.* 35
+
