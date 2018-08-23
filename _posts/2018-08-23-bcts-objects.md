@@ -118,3 +118,8 @@ that Python isn't *really* an object-oriented language, then I'd encourage you t
 
 Thanks for reading! I hope you'll tune in for the final installment of **Better Coding Through Shakespeare**. There's nothing left but the conclusion!
 
+[14] Shakespeare, William. *Henry VI* II.
+
+[15] Martin, Robert C. *Clean Code.* 136
+
+[16] Shakespeare, William. *All's Well That Ends Well* III.VI
