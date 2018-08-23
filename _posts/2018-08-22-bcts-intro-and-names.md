@@ -32,4 +32,6 @@ Good writing - be it an essay or a program - requires good organization, and sol
 
 You're in good hands: Martin is a a thought-leader in software engineering, and Shakespeare - being "not of an age but for all time" - naturally has much programming advice to share.
 
-So grab your quill, your laptop, and your willing suspension of disbelief: it's time to learn ***Better Coding Through Shakespeare!***
+So grab your quill, your laptop, and your willing suspension of disbelief: it's time to learn...
+
+***Better Coding Through Shakespeare!***
