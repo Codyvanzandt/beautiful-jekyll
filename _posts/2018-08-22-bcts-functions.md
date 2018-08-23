@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Better Coding Through Shakespeare: Functions"
+title: "Better Coding Through Shakespeare Part 3: Functions"
 image: /img/BCTS_background.jpg
 tags: [programming, Python, Shakespeare, BetterCodingThroughShakespeare]
 show-avatar: false
