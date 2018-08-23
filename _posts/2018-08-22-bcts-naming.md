@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Better Coding Through Shakespeare: Naming Things"
+title: "Better Coding Through Shakespeare Part 2: Naming Things"
 image: /img/BCTS_background.jpg
 tags: [programming, Python, Shakespeare, BetterCodingThroughShakespeare]
 show-avatar: false
