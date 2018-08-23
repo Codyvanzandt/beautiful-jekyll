@@ -14,7 +14,7 @@ In *The Taming of the Shrew*, Gremio says to Petruchio,
 > You are too blunt. Go to it orderly [12]
 
 Well let me tell you, going about things in an orderly manner isn't just good advice for Petruchio. 
-It's *essential* advice for anyone writing anything larger than a toy program.
+It's *essential* advice for developers.
 
 You see, poor formatting can hamstring your readers just as easily as poor design.
 
@@ -26,7 +26,7 @@ And here's the first question you should consider...
 
 ## How Long Should a File Be? 
 
-The short answer? I don't know.
+The short answer? Eh... I'm not entirely sure.
 
 Just long enough and not any longer, I think. 
 
