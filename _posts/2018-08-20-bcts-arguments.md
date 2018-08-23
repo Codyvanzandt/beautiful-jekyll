@@ -7,9 +7,15 @@ show-avatar: false
 bigimg: /img/BCTS_background.jpg
 ---
 
-## **"Come hither, come hither. How did this argument begin?" $^{8}$ Or, Arguments Confuse Don Adriano (And Everyone Else)** 
+# **Arguments Confuse Don Adriano (And Everyone Else)**
 
-Arguments complicate your code. There's no way around it.
+In *Love's Labor's Lost*, Don Adriano exclaims,
+
+> Come hither, come hither. How did this argument begin? [8]
+
+He gets confused when he encouters arguments, and so do programmers.
+
+In short, arguments complicate your code. There's no way around it.
 
 Arguments make testing, understanding, and debugging code more difficult, and that difficulty grows *exponentially* in the number of arguments.
 
@@ -20,7 +26,7 @@ zero (niladic). Next comes one (monadic), followed
 closely  by  two  (dyadic).  Three  arguments  (triadic)
 should be avoided where possible. More than three
 (polyadic)  requires  very  special  justification — and
-then shouldn’t be used anyway. **$^{9}$**
+then shouldn’t be used anyway. [9]
 
 As far as I'm concerned, that's the best answer to "How many arguments should my function take?"
 
@@ -28,14 +34,14 @@ The big question is, then, "How do I write functions like that?"
 
 Fear not! Here are a few tips that'll help you create smart, safe, understandable arguments.
 
-### Make Your Arguments Classy
+## Make Your Arguments Classy
 
 You might be writing a function like this...
 
 
 ```python
 def manipulate_3D_point(x, y, z):
-    # Do something nifty with a point sitting in three dimensions.
+    # Do something nifty
     pass
 ```
 
@@ -54,7 +60,7 @@ class Point_3D(object):
         self.z = z
         
 def manipulate_3D_point( a_3D_point ):
-    # Do something nifty with something a point sitting in three dimensions.
+    # Do something nifty
     pass
 ```
 
@@ -62,7 +68,7 @@ def manipulate_3D_point( a_3D_point ):
 
 Granted, this example is pretty obvious. But the point remains (pun intended): when your argument list starts to grow, some of your arguments are likely related enough to make a coherent class.
 
-### Make Sure Arguments Don't Come OUT of Functions
+## Make Sure Arguments Don't Come OUT of Functions
 
 Arguments are confusing enough. But arguments that come *out* of functions are even worse.
 
