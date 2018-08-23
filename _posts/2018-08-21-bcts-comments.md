@@ -35,7 +35,8 @@ There are still a few kinds of comments that we need.
 
 
 ```python
-# DONT CHANGE THIS NUMBER. If it isn't EXACTLY equal to 4, then - believe it or not - the San Andreas Fault will violently hemorrhage
+# DONT CHANGE THIS NUMBER. If it isn't EXACTLY equal to 4, then
+# - believe it or not - the San Andreas Fault will hemorrhage
 # and cause San Francisco to topple helplessly into the Pacific.
 b = 4
 ```
@@ -58,16 +59,10 @@ Admittedly, the wonky code might one day changeand our comment will become unnec
 
 Occasionally, you'll find yourself coding in the footsteps of someone with a skill set very different from your own. That previous coder might be, for example, a math PhD. And although she has long left the firm, she did provide a nice equation to help you understand their code:
 
-\begin{align*}
- &a=12+7 \int_0^2
-  \left(
-    -\frac{1}{4}\left(e^{-4t_1}+e^{4t_1-8}\right)
-  \right)\
-\end{align*}
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{align*}&space;&a=12&plus;7&space;\int_0^2&space;\left(&space;-\frac{1}{4}\left(e^{-4t_1}&plus;e^{4t_1-8}\right)&space;\right)\&space;\end{align*}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{align*}&space;&a=12&plus;7&space;\int_0^2&space;\left(&space;-\frac{1}{4}\left(e^{-4t_1}&plus;e^{4t_1-8}\right)&space;\right)\&space;\end{align*}" title="\begin{align*} &a=12+7 \int_0^2 \left( -\frac{1}{4}\left(e^{-4t_1}+e^{4t_1-8}\right) \right)\ \end{align*}" /></a>
 
 
-
-Alas, your degree isn't in math, so you don't haveno hope of making sense of this.
+Alas, your degree isn't in math, so you  have no hope of making sense of this.
 
 *However!*
 
