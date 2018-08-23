@@ -9,20 +9,19 @@ bigimg: /img/BCTS_background.jpg
 
 # King John Regrets Commenting and You Should Too
 
-In *King John*, His Majesty comments,
+In *King John*, John implores Hubert to,
 
-> "Forgive the comment that my passion made / Upon thy feature" [10]
+> Forgive the comment that my passion made / Upon thy feature [10]
 
-And honestly, he's got the right of things. We should all apologize after we comment; comments are just plain weird.
+And honestly, he's got the right of things. We should all apologize after we comment.
 
-Countless programmers extol the virtues "well-commented" code, but no two people ever seem to have the same idea of what "well-commented" means. 
-There's a reason for that. And as you might have come to expect, we're going to turn to Robert C. Martin for the answer:
+Our good friend Robert explains why with starting clarity:
 
 >The  proper  use  of  comments  is  to  compensate  for  our  failure  to  express  ourself  in
 code. Note that I used the word 
 failure. I meant it. Comments are always failures. [11]
 
-It is worth repeating: comments are always failures. We fail to express ourselves clearly in code, and so we leave a comment behind to mark that failure. Over time, that comment slowly forgets its purpose as the surrounding system evolves. And then one day, the comment looks up and realizes that it no longer means anything to anyone. It has no purpose. All it can do is wait to be deleted or replaced.
+It is worth repeating one more time: comments are always failures. We fail to express ourselves clearly in code, and so we leave a comment behind to mark that failure. Over time, that comment slowly forgets its purpose as the surrounding system evolves. And then one day, the comment looks up and realizes that it no longer means anything to anyone. It has no purpose. All it can do is wait to be deleted or replaced.
 
 Almost brings a tear to your eye, doesn't it?
 
