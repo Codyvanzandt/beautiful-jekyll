@@ -13,7 +13,7 @@ In *Romeo and Juliet*, Romeo famoulsy opines...
 
 > *What’s in a name? That which we call a rose*
 >
-> *By any other name would smell as sweet.*$^{1}$
+> *By any other name would smell as sweet.* [1]
 
 Now that might be a fine philosophy for Montagues and Capulets, but it's a *dreadful* way to approach programming.
 
@@ -70,10 +70,20 @@ _How can I name this variable in such a way that everyone coming after me will k
 Here's an example:
 
 ```python
-s = 50000 # Dreadful. I have no idea what 50000 represents. 
-salary = 50000 # This is much better! I now understand that 50000 is a salary, probably in the local currency.
-base_salary_USD = 50000 # Fantastic. Now I have two additional (important!) pieces of information about this salary.
+s = 50000
 ```
+That's dreadful. I have no idea what 50000 represents. 
+
+```python
+salary = 50000
+```
+This is much better! I now understand that 50000 is a salary, probably in the local currency.
+
+```python
+base_salary_USD = 50000
+```
+Fantastic! Now I have two additional (important!) pieces of information about this salary number.
+
 
 #### Tip 2: i,j,k (and Friends) Are Only For Indices
 
@@ -91,55 +101,73 @@ Check out this example:
 ```python
 office_locations = ["Houston", "Austin", "Dallas"]
 
-for i in office_locations: # BAD!
+for i in office_locations: # YUCK!
     pass 
 
-for i, location in enumerate(office_locations): # Okay, sure. You have indices now. But do you NEED them?
+for i, location in enumerate(office_locations): 
     pass
 
-for location in office_locations: # In most cases, this is what you'll want. 
+for location in office_locations: . 
     pass
+
 ```
+
+The first example is a big swing-and-a-miss. The second example works, but *only if you actually need the indices*.
+The third example is what you'll want in most cases.
 
 #### Tip 3: Don't Add Types If They Don't Add Information
 
 
 ```python
-employee_name_string = "Robin" # BAD! We already figured that the name was a string.
+employee_name_string = "Robin" 
 ```
+BAD! We already figured that the name was a string.
 
 
 ```python
-employee_name_list = ["Robin", "Sam", "Alex"] # OKAY! As long as this is always going to be a list...
+employee_name_list = ["Robin", "Sam", "Alex"] 
 ```
-
+This is fine as long as `employee_name_list` will *always* be a list...
 
 ```python
-employee_names = ["Robin", "Sam", "Alex"] # Likely the best option here.
+employee_names = ["Robin", "Sam", "Alex"].
 ```
+This is likely the best option.
 
 #### Tip 4: Make Sure You Can Pronounce It
 
 
 ```python
-cmpy_strt_adr = "100 Foo Street" # BAD! It's "company street address." No one wants to pronounce it as "cumpy stert adder"
+cmpy_strt_adr = "100 Foo Street" 
 ```
+Oh no. Oh no, no, no. This is the company street address, so you should write it as company_street_address.
+I guarantee that if you write `cmpy_strt_adr`, programmers will pronounce it as "cumpy stert adder" until the
+end of time.
 
 #### Tip 5: Variables and Classes are Nouns. Functions and Methods are Verbs.
 
 
 ```python
-class GetEmployeeInfo(object): # BAD! Classes model things. And the only things that are verbs... are verbs.
+class GetEmployeeInfo(object): 
     
-    def years_of_service_calculator(self): # BAD! Methods DO things, don't try and make your nouns do things.
+    def years_of_service_calculator(self): 
         pass
-    
+```
+
+This is no good. Classes model things. And the only things that are verbs... are verbs. 
+Additionally, everyone gets nervous calling a method that doesn't promise to *do* anything.
+This is a swing-and-a-miss on both counts.
+
+Compare with this little gem:
+
+```python
 class Employee(object): # GOOD!
     
-    def get_years_of_service(self): # GOOD!
+    def get_years_of_service(self): 
         pass
     
 ```
+Ah, much better!
 
 #### Tip 6: Pick Your Conventions and Stick with Them
 
@@ -156,9 +184,12 @@ class Employee(object):
     def return_salary(self): # return? 
         pass
     
-    def acquire_manager(self): # acquire? No one will remember which "get" synonym goes where.
+    def acquire_manager(self): # acquire? 
         pass
 ```
+No one will remember which "get" synonym goes where. This can only lead to frustration. 
+Just pick your verb and stick to it.
+
 ### Conclusion
 
 Naming is difficult. 
