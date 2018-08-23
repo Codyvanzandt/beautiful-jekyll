@@ -34,7 +34,7 @@ def get_result(l):
 ```
 
 To quote Robert Martin,
-> The problem isn’t the simplicity of the code but the *implicity* of the code. $^{2}$
+> The problem isn’t the simplicity of the code but the *implicity* of the code. [2]
 
 We know *what* this code does, but we have no idea *why* it's doing it. 
 
@@ -204,3 +204,7 @@ But as tricky as naming can be, it's always worth it to spend a little time comi
 You never know when that name might be the difference between adding a new feature, and introducing a new bug.
 
 That's all for the ***Better Coding Through Shakespeare*** section on naming. Join me next time as we take on functions!
+
+[1] Shakespeare, William. *Romeo and Juliet.* II.ii
+
+[2] Martin, Robert C. *Clean Code.* 18.
