@@ -15,7 +15,7 @@ In *King John*, John implores Hubert to,
 
 And honestly, he's got the right of things. We should all apologize after we comment.
 
-Our good friend Robert explains why with starting clarity:
+Our good friend Robert explains why with startling clarity:
 
 >The  proper  use  of  comments  is  to  compensate  for  our  failure  to  express  ourself  in
 code. Note that I used the word 
