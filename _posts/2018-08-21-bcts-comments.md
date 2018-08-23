@@ -97,6 +97,18 @@ def a_very_important_function(dog):
     return dog.bark()
 ```
 
-This stuff is pretty important in systems with lots of developers. Some folks might even scrape and mine a large collection of it for its secrets. 
+This stuff is pretty important in systems with lots of developers. Its the kind of information that gets used *everywhere*. And unfortunately, there's not really a better way of embedding metadata into your code than, well, embedding metadata into your code. And so, we muddle through with  comments.
 
-Not *all* such file statistics are useful (things like version number are generally best left to version control software), but a lot of them are. 
+## Conclusion
+
+Just so we're clear, I'm not against comments. A well-placed comment can be an incredible boon to a programmer in need. I am, however, against most comments. 
+
+Alas, neither are languages nor our programming environments are expressive enough to communicate everything that needs to be said about our programs. And so we (rightfully) turn to comments to fill in the gaps. 
+
+Perhaps one day we'll only write code in our code files, but until then, we'll muddle through.
+
+Tune in next time as **Better Coding Through Shakespeare** turns its attention to the most underrated aspect of programming: proper formatting. Ignore it at your peril!
+
+[10] Shakespeare, William. *King John* IV.iii
+
+[11] Martin, Robert C. *Clean Code.* 54
