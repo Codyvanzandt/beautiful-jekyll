@@ -7,7 +7,7 @@ show-avatar: false
 bigimg: /img/BCTS_background.jpg
 ---
 
-## **Naming Things. Or, Romeo Is a Dreadful Programmer**
+# **Naming Things. Or, Romeo Is a Dreadful Programmer**
 
 In *Romeo and Juliet*, Romeo famoulsy opines...
 
@@ -60,7 +60,8 @@ Fear not! I have tips aplenty.
 I can't guarantee that following these tips will make you as adept a namer as old Shakespeare,
 but you're programs will read a great deal smoother.
 
-#### Tip 1: See Names as Opportunities to Add Context
+
+## Tip 1: See Names as Opportunities to Add Context
 
 Take a second to think before you jot down any old name for a variable. That name just might stick around for eternity. 
 
@@ -85,7 +86,7 @@ base_salary_USD = 50000
 Fantastic! Now I have two additional (important!) pieces of information about this salary number.
 
 
-#### Tip 2: i,j,k (and Friends) Are Only For Indices
+## Tip 2: i,j,k (and Friends) Are Only For Indices
 
 Single character loop variables (i, j, k, x, y, z, etc.) add almost no context. Because of convention, many programmers
 aren't bothered by these names. But just because this is conventional doesn't mean it is any good.
@@ -115,7 +116,7 @@ for location in office_locations: .
 The first example is a big swing-and-a-miss. The second example works, but *only if you actually need the indices*.
 The third example is what you'll want in most cases.
 
-#### Tip 3: Don't Add Types If They Don't Add Information
+## Tip 3: Don't Add Types If They Don't Add Information
 
 
 ```python
@@ -134,7 +135,9 @@ employee_names = ["Robin", "Sam", "Alex"].
 ```
 This is likely the best option.
 
-#### Tip 4: Make Sure You Can Pronounce It
+
+
+## Tip 4: Make Sure You Can Pronounce It
 
 
 ```python
@@ -144,8 +147,8 @@ Oh no. Oh no, no, no. This is the company street address, so you should write it
 I guarantee that if you write `cmpy_strt_adr`, programmers will pronounce it as "cumpy stert adder" until the
 end of time.
 
-#### Tip 5: Variables and Classes are Nouns. Functions and Methods are Verbs.
 
+## Tip 5: Variables and Classes are Nouns. Functions and Methods are Verbs.
 
 ```python
 class GetEmployeeInfo(object): 
@@ -169,7 +172,8 @@ class Employee(object): # GOOD!
 ```
 Ah, much better!
 
-#### Tip 6: Pick Your Conventions and Stick with Them
+
+## Tip 6: Pick Your Conventions and Stick with Them
 
 
 ```python
@@ -190,7 +194,8 @@ class Employee(object):
 No one will remember which "get" synonym goes where. This can only lead to frustration. 
 Just pick your verb and stick to it.
 
-### Conclusion
+
+## Conclusion
 
 Naming is difficult. 
 
