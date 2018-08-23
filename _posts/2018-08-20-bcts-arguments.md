@@ -166,7 +166,7 @@ If you're still not convinced, consider for a moment that Turing award-winning c
 
 Be careful with arguments. They're so simple on the surface, but they can wreak havoc if you let them run unchcked through your code. You don't have to necessarily agree with my (rather controversial) stances on None and booleans, but you should absolutely take a moment or two to think through the impact that your arguments will have on your functions.
 
-I hope to see you for the next section of **Better Coding Through Shakespeare** where I will rage unreasonably against comments for the larger part of a blog post. It'll be a hoot!
+I hope to see you for the next section of **Better Coding Through Shakespeare** where I will rage unreasonably against comments for the better part of a blog post!
 
 [8] Shakespeare, William. Love's Labor's Lost. III.i
 
