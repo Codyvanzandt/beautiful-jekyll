@@ -179,8 +179,8 @@ That's a wrap on formatting! There's nothing especially *challenging* about it, 
 end up sending hideously formatted code out into the wild. Don't count yourself among them! Spend those
 extra few moments formatting your code; you'll thank yourself for it later.
 
-That's for joining me in my disucssion of formatting. Keep reading on as **Better Coding Through Shakespeare**
-heads into the homestretch with a section classes!
+Thanks for joining me in my disucssion of formatting. Keep reading on as **Better Coding Through Shakespeare**
+heads into the homestretch with a section on classes!
 
 [12] Shakespeare, William. *The Taming of the Shrew* II.i
 
