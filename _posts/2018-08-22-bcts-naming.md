@@ -7,7 +7,7 @@ show-avatar: false
 bigimg: /img/BCTS_background.jpg
 ---
 
-# **Naming Things. Or, Romeo Is a Dreadful Programmer**
+# **Romeo Is a Dreadful Programmer**
 
 In *Romeo and Juliet*, Romeo famoulsy opines...
 
