@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Two Aspirations for My Research
+title: Aspirations for My Research Process
 image: /img/research.jpg
 tags: [research, writing]
 show-avatar: false
 bigimg: /img/research.jpg
 ---
 
-## 1. A Transparent, Repeatable Process
+A short communiqué on transparency, reproducibility, and acceptance.
+
+## Aspiration One: Laying All My Cards on the Table
 
 Research in the humanities too frequently appears to come straight from the swirling depths of genius and directly unto the page. The evidence is compelling, the logic is air-tight, and the process is absent.
 
@@ -20,9 +22,9 @@ Research in the humanities too frequently appears to come straight from the swir
 
 Research doesn't move from initial idea to polished argument in clean little mental jumps. It moves with uneven steps - meandering or lurching as often as charging or marching. But all the steps (and particularly the *missteps*) rarely make it to the finished product. And that's a shame. 
 
-In the coming months, I hope to shift my research process completely out into the open. I'll take notes, program, and write my drafts in [Python Notebooks], commit each day's progress to [Github], and serve up the final products in fully interactive Docker containers provided by [Binder]. Everything will be fully visible and completely reproducible: every stumble, success, and improvement. And thanks to [Binder]() (which I'm linking *again* because it's just that amazing), folks will be able to pull down my code and run it right away - no dependencies required!
+In the coming months, I hope to shift my research process completely out into the open. I'll take notes, program, and write my drafts in [Jupyter Notebooks](http://jupyter.org/), commit each day's progress to [Github](https://github.com/), and serve up the final products in fully interactive Docker containers provided by [Binder](https://mybinder.org/). Everything will be fully visible and completely reproducible: every stumble, success, and improvement. And thanks to [Binder](https://mybinder.org/) (which I'm linking *again* because it's just that amazing), folks will be able to pull down my code and run it right away - no dependencies required!
 
-## 2. Embracing Negative Results
+## 2. Aspiration Two: Embracing Negative Results
 
 Imagine a paper titled...
 
