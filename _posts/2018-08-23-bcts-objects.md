@@ -116,7 +116,7 @@ If you're less than familiar with Python's object-oriented features or if you're
 that Python isn't *really* an object-oriented language, then I'd encourage you to spend some in the [Python](https://docs.python.org/3/reference/datamodel.html)
 [docs](https://docs.python.org/3/tutorial/classes.html).
 
-Thanks for reading! I hope you'll tune in for the final installment of **Better Coding Through Shakespeare**. There's nothing left but [the conclusion!](/_posts/2018-08-24-bcts-conclusion)
+Thanks for reading! I hope you'll tune in for the final installment of **Better Coding Through Shakespeare**. There's nothing left but [the conclusion!](/2018-08-24-bcts-conclusion)
 
 [14] Shakespeare, William. *Henry VI* II.
 
