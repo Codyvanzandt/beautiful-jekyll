@@ -35,3 +35,5 @@ You're in good hands: Martin is a a thought-leader in software engineering, and 
 So grab your quill, your laptop, and your willing suspension of disbelief: it's time to learn...
 
 ***Better Coding Through Shakespeare!***
+
+First stop: [naming things!](/_posts/2018-08-18-bcts-naming)
