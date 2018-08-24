@@ -73,7 +73,7 @@ social-network-links:
   twitter: CodyVanZandt
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: codyvanzandt
+#  linkedin: codyvanzandt
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -115,7 +115,7 @@ url-pretty: "codyvanzandt.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: "codyvanzandt"
+disqus: "codyvanzandt"
 
 # Facebook App ID
 # fb_app_id: ""
