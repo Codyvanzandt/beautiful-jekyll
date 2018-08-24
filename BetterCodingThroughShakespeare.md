@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Better Coding Through Shakespeare
-subtitle: Contemporary Software Engineering Meets Renaissance Literature
+subtitle: Software Engineering Theory Meets Renaissance Literature
 ---
 
 ## [Introduction](/2018-08-17-bcts-intro)
