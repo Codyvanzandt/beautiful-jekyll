@@ -203,7 +203,7 @@ There's a reason why companies pay marketing companies the big bucks to create c
 But as tricky as naming can be, it's always worth it to spend a little time coming up with a good name. 
 You never know when that name might be the difference between adding a new feature, and introducing a new bug.
 
-That's all for the ***Better Coding Through Shakespeare*** section on naming. Join me next time as we take on functions!
+That's all for the ***Better Coding Through Shakespeare*** section on naming. Join me next time [as we take on functions!](/_posts/2018-08-19-bcts-functions)
 
 [1] Shakespeare, William. *Romeo and Juliet.* II.ii
 
