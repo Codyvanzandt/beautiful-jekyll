@@ -4,6 +4,7 @@ title: Better Coding Through Shakespeare
 subtitle: Contemporary Software Engineering Meets Renaissance Literature
 ---
 
+ <p style="text-align: center;">
 ## [Introduction](/2018-08-17-bcts-intro)
 
 ## [Naming Things](/2018-08-18-bcts-naming)
@@ -19,3 +20,4 @@ subtitle: Contemporary Software Engineering Meets Renaissance Literature
 ## [Objects](/2018-08-23-bcts-objects)
 
 ## [Conclusion](/2018-08-24-bcts-conclusion)
+</p>
