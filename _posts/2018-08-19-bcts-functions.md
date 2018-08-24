@@ -175,7 +175,7 @@ I know it's shocking to imagine 15000 lines of code made up of tiny five-line fu
 But humor me: give it a try. Code up a gaggle of little functions. Name them accurately, test them well, then let them loose.
 I think you'll see the difference. 
 
-Regardless, I hope to see you in the next section of **Better Coding Through Shakespeare** - we're taking on arguments!
+Regardless, I hope to see you in the next section of **Better Coding Through Shakespeare** - [we're taking on arguments!](/_posts/2018-08-20-bcts-arguments)
 
 [3] Shakespeare, William. *A Midsummer Night's Dream.* III.ii
 
