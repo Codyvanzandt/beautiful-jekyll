@@ -38,7 +38,7 @@ To quote Robert Martin,
 
 We know *what* this code does, but we have no idea *why* it's doing it. 
 
-But if we do a little better job of naming things, this murky little function shines right up makes its intention perfectly clear:
+But if we do a little better job of naming things, this murky little function shines right up and makes its intention perfectly clear:
 
 ```python
 OVERTIME_CUTOFF = 40
@@ -53,13 +53,9 @@ def get_employees_with_overtime(employees_and_hours):
 
 Ah, that's better! We know *exactly* what this function and all of its variables are for. All we had to do was use good names.
 
-Of course, you've got to be wondering, much like Romeo, "What's in a *good* name?" 
+Of course, you've got to be wondering (much like Romeo) "What's in a *good* name?" 
 
 Fear not! I have tips aplenty. 
-
-I can't guarantee that following these tips will make you as adept a namer as old Shakespeare,
-but you're programs will read a great deal smoother.
-
 
 ## Tip 1: See Names as Opportunities to Add Context
 
@@ -88,14 +84,16 @@ Fantastic! Now I have two additional (important!) pieces of information about th
 
 ## Tip 2: i,j,k (and Friends) Are Only For Indices
 
-Single character loop variables (i, j, k, x, y, z, etc.) add almost no context. Because of convention, many programmers
-aren't bothered by these names. But just because this is conventional doesn't mean it is any good.
+Single character loop variables (i, j, k, x, y, z, etc.) add almost no context. But for reasons of convention, many programmers
+aren't bothered.
+
+That's a shame; this is a miserable little convention.
 
 Once you get more than a few lines of code away from these loop variables, you can easily lose track of what they
 represent. What is `i` supposed to be? Who knows!
 
 The only time you should use a single character loop variable is when you're looping over indices. And even then,
-you should first ask yourself, "Should I really be looping over indices in the first place?"
+you should first ask yourself, "Should I even be looping over indices in the first place?"
 
 Check out this example:
 
@@ -143,9 +141,9 @@ This is likely the best option.
 ```python
 cmpy_strt_adr = "100 Foo Street" 
 ```
-Oh no. Oh no, no, no. This is the company street address, so you should write it as company_street_address.
+Oh no. Oh no, no, no. This is the *company street address*, so you should write it as `company_street_address`.
 I guarantee that if you write `cmpy_strt_adr`, programmers will pronounce it as "cumpy stert adder" until the
-end of time.
+end of time. Don't make your future colleagues sound like Dr. Seus characters.
 
 
 ## Tip 5: Variables and Classes are Nouns. Functions and Methods are Verbs.
@@ -170,7 +168,7 @@ class Employee(object): # GOOD!
         pass
     
 ```
-Ah, much better!
+Ah, much better! An employee is a thing (noun!) and I can get (verb!) the years of service using `get_years_of_service`.
 
 
 ## Tip 6: Pick Your Conventions and Stick with Them
