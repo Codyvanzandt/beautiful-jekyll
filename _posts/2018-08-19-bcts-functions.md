@@ -17,7 +17,7 @@ Just the qualities we want in a function: little and fierce.
 
 Programs made up of small, powerful functions are easier to understand, easier to test, and easier to maintain.
 
-Check out this big ol' function. No need to get too involved with it. It is, after all fake. But glance through it and get the gist.
+Check out this big ol' function. No need to get too involved with it. It is, after all, fake. But glance through it and get the gist.
 
 
 ```python
@@ -67,7 +67,7 @@ def promote_employee(employee, new_title):
 
 That's one *long* function. It isn't terribly easy to read, the logic of each individual part obfuscates the function's larger goal, and there are control-flow statements everywhere. The comments help *a little*, but they shouldn't be necessary. 
 
-In short, this function isn't short, and it isn't terribly clear.
+In short, this function *isn't* short, and it *isn't* clear.
 
 Now check out this nice little function...
 
@@ -83,9 +83,9 @@ def promote_employee(employee, new_title):
 
 Now *that* is readable! 
 
-There's not a single if-statement, and every line of code communicates its purpose. 
+There's not a single if-statement, every line of code communicates its purpose, and you can tell right away what promoting an employee entails.
 
-True story: I sent this snippet to my mother, a retired paralegal with zero coding experience, and asked her to tell me what she thinks is going on. She quickly sent back:
+True story: I sent this snippet to my mother, a retired paralegal with zero coding experience, and asked her to tell me what she thinks is going on. She immediately wrote back:
 
 > Well, you're trying to promote an employee. So you give him his new title, salary, 401k matching, and stock, right? [4]
 
@@ -106,7 +106,7 @@ Very clever. But how small is "smaller than that?"
 
 Honestly, there isn't a universally-accepted measure of "small."  However, I'd wager that almost every student in Martin's tradition (Martians?) would agree that 20 lines is usually too big. 
 
-But I imagine that you want some hard-and-fast guidelines. Well, here you go!
+But I imagine that you want some hard-and-fast guidelines. You're right to ask for them, so here you go!
 
 These statistics come from roughly 15000 lines of Ruby code written by Martin Fowler. 
 
