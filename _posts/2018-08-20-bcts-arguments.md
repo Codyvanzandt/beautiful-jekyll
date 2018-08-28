@@ -134,37 +134,37 @@ class SomeCrazyData(object):
 
 Do yourself a favor: don't use flags unless you *absolutely* have to.
 
-## Leave "None" Alone!
+## Leave `None` Alone!
 
-None is so tempting. But it's usually a sub-optimal idea.
+`None` is so tempting. But it's usually a sub-optimal idea.
 
 It is a value that represents the absence of any value. And that alone should make you feel weird.
 
-You cannot iterate through None. You cannot cannot use it as a function. It has no attributes, and it has no methods. All None will ever do for you is raise the exception "AttributeError: 'NoneType' object has no attribute..."
+You cannot iterate through `None`. You cannot cannot use it as a function. It has no attributes, and it has no methods. All None will ever do for you is raise the exception "AttributeError: 'NoneType' object has no attribute..."
 
-If you return it from a function, it will force every caller of your function to perform None-checks. If they forget a check, they risk an AttributeError. 
+If you return it from a function, it will force every caller of your function to perform `None` checks. If they forget a check, they risk an AttributeError. 
 
-If you pass it into a function, (especially as a default argument), you'll obfuscate your logic with None-checks and doom your helper functions to the same fate.
+If you pass it into a function, (especially as a default argument), you'll obfuscate your logic with `None` checks and doom your helper functions to the same fate.
 
-And yet, None still gets used because it is convenient. It has no features: all you can do with it is ask "Are you None?" 
+And yet, `None` still gets used because it is convenient. It has no features: all you can do with it is ask "Um, hello. Are you `None`?" 
 
-Given its simple featurelessness, folks use None to store all kinds of random information: Did I ever set this variable? Did I call this function? Did I succeed in some task? *All* sorts of things. 
+Given its simple featurelessness, folks use `None` to store all kinds of random information: Did I ever set this variable? Did I call this function? Did I succeed in some task? *All* sorts of things. 
 
-They're all a mistake. There is *always* a better way to signal your intention than with a None.
+Each of those cases uses `None` to record some state that can be recorded with greater clarity *without* `None`. 
 
-You could...
+For example, you can ditch `None` and instead...
 - Raise an exception (potenially in a try-except block) to signal that something invalid happened
 - Ditch the default argument. If an argument doesn't have a sensible default, then why are you trying to force one on it?
 - Use a sensible, non-mutable default: a custom "empty" class or an enum.
 - Re-architect your functions and logic so that they don't need None. Your code will almost certainly be more robust as a result.
 
-Just try not to use None.
+Just try not to use `None`.
 
-If you're still not convinced, consider for a moment that Turing award-winning computer scientist Tony Hoare [believes that None (aka: the null refernece) is a mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare). And he invented it.
+If you're still not convinced, consider for a moment that Turing award-winning computer scientist Tony Hoare [believes that `None` (aka: the null refernece) is a mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare). And he invented it.
 
 ## Conclusion
 
-Be careful with arguments. They're so simple on the surface, but they can wreak havoc if you let them run unchcked through your code. You don't have to necessarily agree with my (rather controversial) stances on None and booleans, but you should absolutely take a moment or two to think through the impact that your arguments will have on your functions.
+Be careful with arguments. They're so simple on the surface, but they can wreak havoc if you let them run unchcked through your code. You don't have to necessarily agree with my (rather controversial) stances on `None` and flags, but you should absolutely take a moment or two to think through the impact that your arguments will have on your functions.
 
 I hope to see you for the next section of **Better Coding Through Shakespeare** where I will [rage unreasonably against comments](/2018-08-21-bcts-comments) for the better part of a blog post!
 
