@@ -41,7 +41,7 @@ There are still a few kinds of comments that we need.
 b = 4
 ```
 
-Occasionally, things like this happen. Systems aren't always as robust as we'd like them, and programmers who've erred leave warnings behind. They're often valuable, and not to be dismissed without at least a little investigation.
+Occasionally, things like this happen. Systems aren't always as robust as we'd like them, and programmers who've erred leave warnings behind. These little warnings are not to be dismissed out of hand.
 
 ## Explaining Interfaces You Don't Own
 
@@ -51,13 +51,15 @@ Occasionally, things like this happen. Systems aren't always as robust as we'd l
 fetch_BookFace_messages(username="odycay anzandtvay")
 ```
 
-We hope that all public APIs are well-documented and entirely unastonishing. But that's just not the case. Ocassioanlly, Alice-in-Wonderland-esque functions climb out of the rabbit hole and make their way into our systems. We can sputter and swear and jump up and down all we'd like, but there's nothing we can do to change the wonky code. All we can do is leave a comment and hope for the best.
+We weren't expecting BookFace's API to require Pig Latin usernames. But it does, and that's just the world we have to live in.
+
+We always hope that public APIs are well-documented and entirely unastonishing. But that's just not the case. Ocassioanlly, Alice-in-Wonderland-esque functions climb out of the rabbit hole and make their way into our systems. We can sputter and swear and jump up and down all we'd like, but there's nothing we can do to change the wonky code. All we can do is leave a comment and hope for the best.
 
 Admittedly, the wonky code might one day changeand our comment will become unnecessary. But 'til then, a few words might save our colleagues loads of time and energy.
 
 ### Explaining the Truly Esoteric
 
-Occasionally, you'll find yourself coding in the footsteps of someone with a skill set very different from your own. That previous coder might be, for example, a math PhD. And although she has long left the firm, she did provide a nice equation to help you understand their code:
+Occasionally, you'll find yourself coding in the footsteps of someone with a skill set very different from your own. That previous coder might be, for example, a math PhD. And although she has long left the firm, she did provide a nice equation to help you understand her code:
 
 <figure>
   <center> 
@@ -66,7 +68,7 @@ Occasionally, you'll find yourself coding in the footsteps of someone with a ski
 </figure>
 
 
-Alas, your degree isn't in math, so you  have no hope of making sense of this.
+Alas, your degree isn't in math, so you have no hope of making sense of this.
 
 *However!*
 
