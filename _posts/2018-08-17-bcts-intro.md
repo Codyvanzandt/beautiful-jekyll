@@ -2,7 +2,7 @@
 layout: post
 title: "Better Coding Through Shakespeare Part 1: Introduction"
 image: /img/BCTS_background.jpg
-tags: [programming, Python, Shakespeare, BetterCodingThroughShakespeare]
+tags: [programming, Python, Shakespeare, BetterCodingThroughShakespeare, teaching]
 show-avatar: false
 bigimg: /img/BCTS_background.jpg
 ---
