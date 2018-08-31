@@ -8,7 +8,7 @@ show-avatar: false
 bigimg: /img/sorcerers_code.jpg
 ---
 
-# Introduction
+# We're Going to Need a Little Magic
 
 So there you are - mind racing, fingers blurring, the most beautiful Python in all the world coming to life on your screen. You're in the zone!
 
