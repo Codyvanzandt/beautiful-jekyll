@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "A Quick Look at Hemingway's Book-Borrowing Habits"
-image: /img/hemingway_borrowing_habits.jpg
+image: /img/hemingway_borrowing_habits.png
 tags: [research, hemingway, visualization, TheLostGeneration]
 show-avatar: false
 ---
+
+How often did Ernest Hemingway check out books?
 
 Thanks to [The Center for Digital Humanities @ Princeton](https://cdh.princeton.edu/) and their
 [Mapping Expatriate Paris project](https://mep.princeton.edu/), we now have access to 
@@ -15,6 +17,6 @@ Below is a visualization from my early exploration into Ernest Hemingway's borro
 
 <figure>
   <center> 
-    <img src="/img/hemingway_borrowing_habits.jpg" align="middle" alt="a blue bar-plot">
+    <img src="/img/hemingway_borrowing_habits.png" align="middle" alt="a blue bar-plot">
   </center>
 </figure>
