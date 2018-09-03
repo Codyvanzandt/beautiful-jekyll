@@ -20,3 +20,6 @@ Below is a visualization from my early exploration into Ernest Hemingway's borro
     <img src="/img/hemingway_borrowing_habits.png" align="middle" alt="a blue bar-plot">
   </center>
 </figure>
+
+
+
