@@ -14,46 +14,46 @@ Statistical analysis is forthcoming, but in the meanwhile, here are some fun (an
 The clouds are organized by part-of-speech with word-size corresponding to relative frequency. The common nouns are particularly compelling; I think they're 
 a better-than-fair approximation of a Hemingway topic model.
 
-## Common Nouns
+<center> <h2>Common Nouns</h2> </center>
 <figure>
   <center> 
-    <img src="/img/hemingway_noun_cloud.png" align="middle" alt="a green and blue word cloud of common nouns">
+    <img src="/img/hemingway_noun_cloud.png" align="middle" alt="a green, blue, and yellow word cloud of common nouns">
   </center>
 </figure>
 
 <br>
 
-## Proper Nouns
+<center> <h2>Proper Nouns</h2> </center>
 <figure>
   <center> 
-    <img src="/img/hemingway_proper_noun_cloud.png" align="middle" alt="a green and blue word cloud of proper nouns">
+    <img src="/img/hemingway_proper_noun_cloud.png" align="middle" alt="a green, blue, and yellow word cloud of proper nouns">
   </center>
 </figure>
 
 <br>
 
-## Adjectives
+<center> <h2>Adjectives</h2> </center>
 <figure>
   <center> 
-    <img src="/img/hemingway_adjective_cloud.png" align="middle" alt="a green and blue word cloud of adjectives">
+    <img src="/img/hemingway_adjective_cloud.png" align="middle" alt="a green, blue, and yellow word cloud of adjectives">
   </center>
 </figure>
 
 <br>
 
-## Verbs
+<center> <h2>Verbs</h2> </center>
 <figure>
   <center> 
-    <img src="/img/hemingway_verb_cloud.png" align="middle" alt="a green and blue word cloud of verbs">
+    <img src="/img/hemingway_verb_cloud.png" align="middle" alt="a green, blue, and yellow word cloud of verbs">
   </center>
 </figure>
 
 <br>
 
-## Adverbs
+<center> <h2>Adverbs</h2> </center>
 <figure>
   <center> 
-    <img src="/img/hemingway_adverb_cloud.png" align="middle" alt="a green and blue word cloud of adverbs">
+    <img src="/img/hemingway_adverb_cloud.png" align="middle" alt="a green, blue, and yellow word cloud of adverbs">
   </center>
 </figure>
 
