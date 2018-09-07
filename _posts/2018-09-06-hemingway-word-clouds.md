@@ -14,45 +14,47 @@ Statistical analysis is forthcoming, but in the meanwhile, here are some fun (an
 The clouds are organized by part-of-speech with word-size corresponding to relative frequency. The common nouns are particularly compelling; I think they're 
 a better-than-fair approximation of a Hemingway topic model.
 
+## Common Nouns
 <figure>
   <center> 
     <img src="/img/hemingway_noun_cloud.png" align="middle" alt="a green and blue word cloud of common nouns">
-    <figcaption>Common nouns</figcaption>
   </center>
 </figure>
 
 <br>
 
+## Proper Nouns
 <figure>
   <center> 
     <img src="/img/hemingway_proper_noun_cloud.png" align="middle" alt="a green and blue word cloud of proper nouns">
-    <figcaption>Proper nouns</figcaption>
   </center>
 </figure>
 
 <br>
 
+## Adjectives
 <figure>
   <center> 
     <img src="/img/hemingway_adjective_cloud.png" align="middle" alt="a green and blue word cloud of adjectives">
-    <figcaption>Adjectives</figcaption>
   </center>
 </figure>
 
 <br>
 
+## Verbs
 <figure>
   <center> 
     <img src="/img/hemingway_verb_cloud.png" align="middle" alt="a green and blue word cloud of verbs">
-    <figcaption>Verbs</figcaption>
   </center>
 </figure>
 
 <br>
 
+## Adverbs
 <figure>
   <center> 
     <img src="/img/hemingway_adverb_cloud.png" align="middle" alt="a green and blue word cloud of adverbs">
-    <figcaption>Adverbs</figcaption>
   </center>
 </figure>
+
+<br>
