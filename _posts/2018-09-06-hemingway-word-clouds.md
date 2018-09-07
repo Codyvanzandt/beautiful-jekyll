@@ -14,6 +14,9 @@ Statistical analysis is forthcoming, but in the meanwhile, here are some fun (an
 The clouds are organized by part-of-speech with word-size corresponding to relative frequency. The common nouns are particularly compelling; I think they're 
 a better-than-fair approximation of a Hemingway topic model.
 
+If you'd like to download one of these clouds for closer inspection or see how they were generated, you can check out [this
+project's Github repository](https://github.com/Codyvanzandt/HemingwayStylometry).
+
 <center> <h2>Common Nouns</h2> </center>
 <figure>
   <center> 
