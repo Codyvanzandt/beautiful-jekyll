@@ -21,7 +21,7 @@ a better-than-fair approximation of a Hemingway topic model.
   </center>
 </figure>
 
-<br><br><br>
+<br>
 
 <figure>
   <center> 
@@ -30,7 +30,7 @@ a better-than-fair approximation of a Hemingway topic model.
   </center>
 </figure>
 
-<br><br><br>
+<br>
 
 <figure>
   <center> 
@@ -39,7 +39,7 @@ a better-than-fair approximation of a Hemingway topic model.
   </center>
 </figure>
 
-<br><br><br>
+<br>
 
 <figure>
   <center> 
@@ -48,7 +48,7 @@ a better-than-fair approximation of a Hemingway topic model.
   </center>
 </figure>
 
-<br><br><br>
+<br>
 
 <figure>
   <center> 
