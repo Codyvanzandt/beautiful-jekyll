@@ -131,7 +131,7 @@ title-separator: ""
 
 # Collections
 collections:
-  highlight:
+  highlights:
     output: true
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
