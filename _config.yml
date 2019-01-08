@@ -229,6 +229,12 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
+      - name: "highlight"
+        field:
+          element: "text"
+          label: "Post highlight"
+          placeholder: "None"
+          alterable: true
 
 plugins:
   - jekyll-paginate
