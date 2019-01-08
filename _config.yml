@@ -233,7 +233,7 @@ prose:
         field:
           element: "text"
           label: "Post highlight"
-          placeholder: "None"
+          value: "None"
           alterable: true
 
 plugins:
