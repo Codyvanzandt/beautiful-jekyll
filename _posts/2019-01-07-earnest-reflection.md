@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Small Reflection on Founding a Tiny Theatre Company
+title: On Founding a Tiny Theatre Company
 image: /img/earnest.png
 tags: [theater, directing, teaching, reflections]
 show-avatar: false
