@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Better Coding Through Shakespeare
+title: Better Coding Through Shakespeare!
 subtitle: Engineering Theory Meets Renaissance Drama
 use-site-title: false
 ---
 
 <div class="posts-list">
-  {% assign sorted = (site.posts | sort: 'date') | reverse %}
+  {% assign sorted = (site.posts | sort: 'date') %}
   {% for post in sorted %}
     {% if post.title contains "Shakespeare" %}
       <article class="post-preview">
