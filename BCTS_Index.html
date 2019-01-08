@@ -8,7 +8,7 @@ use-site-title: false
 <div class="posts-list">
   {% assign sorted = (site.posts | sort: 'date') %}
   {% for post in sorted %}
-    {% if post.title contains "Shakespeare" %}
+    {% if post.title contains "Better Coding Through Shakespeare" %}
       <article class="post-preview">
         <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">{{ post.title }}</h2>
