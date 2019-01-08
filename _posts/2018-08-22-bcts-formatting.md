@@ -5,6 +5,7 @@ image: /img/BCTS_background.jpg
 tags: [programming, Python, Shakespeare, BetterCodingThroughShakespeare, teaching]
 show-avatar: false
 bigimg: /img/BCTS_background.jpg
+highlight: "BetterCodingThroughShakespeare"
 ---
 
 # Petruchio Needs Better Formatting
