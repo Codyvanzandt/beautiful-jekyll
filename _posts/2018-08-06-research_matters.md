@@ -3,7 +3,7 @@ layout: post
 title: Aspirations for My Research Process
 image: /img/research.jpg
 tags: [research, writing]
-show-avatar: false
+show-avatar: true
 bigimg: /img/research.jpg
 ---
 
