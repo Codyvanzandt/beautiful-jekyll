@@ -182,7 +182,7 @@ end up sending hideously formatted code out into the wild. Don't count yourself 
 extra few moments formatting your code; you'll thank yourself for it later.
 
 Thanks for joining me in my disucssion of formatting. Keep reading on as **Better Coding Through Shakespeare**
-heads into the homestretch with [a section on classes!](/highlights/2018-08-23-bcts-objects)
+heads into the homestretch with [a section on classes and objects!](/highlights/2018-08-23-bcts-objects)
 
 [12] Shakespeare, William. *The Taming of the Shrew* II.i
 
