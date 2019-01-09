@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Better Coding Through Shakespeare Part 4: Arguments"
+title: "Better Coding Through Shakespeare"
+subtitle: "Part Four: Arguments"
 image: /img/BCTS_background.jpg
 tags: [programming, Python, Shakespeare, BetterCodingThroughShakespeare, teaching]
 show-avatar: false
