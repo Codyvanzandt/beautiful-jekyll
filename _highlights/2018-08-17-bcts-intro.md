@@ -9,10 +9,9 @@ bigimg: /img/BCTS_background.jpg
 highlight: "BetterCodingThroughShakespeare"
 ---
 
-# **Better Coding Through Shakespeare**
-### **Adapted from Robert C. Martin's *Clean Code* and the works of William Shakespeare**
+Friends, Romans, Programmers, lend me your ears! I have come to bury hacky programming, not to praise it.
 
-When you learned to write essays, your instructors didn't just focus on syntax. They recognized that you also needed the answers to some pretty important organizational questions:
+I bet that when you learned to write essays, your instructors didn't just focus on syntax. They recognized that you also needed the answers to some pretty important organizational questions:
 
 - How should I format and organize my essays?
 - How big should my essays, paragraphs, and sentences be?
