@@ -25,7 +25,7 @@ description: ""
 navbar-links:
   About Me: "aboutme"
   Better Coding Through Shakespeare: "BetterCodingThroughShakespeare"
-      
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -99,6 +99,9 @@ url-pretty: "codyvanzandt.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-118777588-1"
 
@@ -114,7 +117,8 @@ google_analytics: "UA-118777588-1"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-# --- Misc --- #
+# --- Comments --- #
+
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "codyvanzandt"
 
