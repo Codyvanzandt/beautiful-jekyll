@@ -111,7 +111,7 @@ Alas, neither are languages nor our programming environments are expressive enou
 
 Perhaps one day we'll only write code in our code files, but until then, we'll muddle through.
 
-Tune in next time as **Better Coding Through Shakespeare** turns its attention to the most underrated aspect of programming: [proper formatting.](/2018-08-22-bcts-formatting) Ignore it at your peril!
+Tune in next time as **Better Coding Through Shakespeare** turns its attention to the most underrated aspect of programming: [proper formatting.](/highlights/2018-08-22-bcts-formatting) Ignore it at your peril!
 
 [10] Shakespeare, William. *King John* IV.iii
 
