@@ -37,4 +37,4 @@ So grab your quill, your laptop, and your willing suspension of disbelief: it's 
 
 ***Better Coding Through Shakespeare!***
 
-First stop: [naming things!](/2018-08-18-bcts-naming)
+First stop: [naming things!](/highlights/2018-08-18-bcts-naming)
