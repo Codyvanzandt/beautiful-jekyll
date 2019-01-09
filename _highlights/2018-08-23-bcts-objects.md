@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Better Coding Through Shakespeare Part 7: Objects"
+title: "Better Coding Through Shakespeare"
+subtitle: "Part Seven: Objects"
 image: /img/BCTS_background.jpg
 tags: [programming, Python, Shakespeare, BetterCodingThroughShakespeare, teaching]
 show-avatar: false
