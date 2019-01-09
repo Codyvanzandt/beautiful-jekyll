@@ -3,7 +3,7 @@ layout: post
 title: "Word Clouds: Hemingway's Paris Reading List"
 image: /img/hemingway_noun_cloud.png
 tags: [research, hemingway, visualization, TheLostGeneration]
-show-avatar: false
+show-avatar: true
 ---
 
 What was Hemingway reading while writing *The Sun Also Rises*?
