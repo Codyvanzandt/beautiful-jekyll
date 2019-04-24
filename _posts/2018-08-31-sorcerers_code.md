@@ -3,6 +3,7 @@ layout: post
 title: "The Sorcerer's Code"
 subtitle: "A Hands-On Introduction to Python's Magic Methods"
 image: /img/sorcerers_code.jpg
+bigimg: /img/sorcerers_code.jpg
 tags: [programming, Python, teaching]
 show-avatar: true
 ---
