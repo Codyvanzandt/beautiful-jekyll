@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Quick Look at Hemingway's Book-Borrowing Habits"
-image: /img/hemingway_borrowing_habits.png
 tags: [research, hemingway, visualization, TheLostGeneration]
 show-avatar: true
 ---
