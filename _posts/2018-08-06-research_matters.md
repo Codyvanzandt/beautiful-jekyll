@@ -4,6 +4,7 @@ title: Aspirations for My Research Process
 image: /img/research.jpg
 tags: [research, writing]
 show-avatar: true
+bigimg: /img/research.jpg
 ---
 
 A short communiqué on transparency, reproducibility, and acceptance.
