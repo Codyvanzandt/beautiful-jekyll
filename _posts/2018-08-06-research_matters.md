@@ -6,7 +6,7 @@ show-avatar: true
 bigimg: /img/research.jpg
 ---
 
-A short communiqué on transparency, reproducibility, and acceptance.
+A short communiqué on transparency, reproducibility, and acceptance
 
 ## Aspiration One: Laying All My Cards on the Table
 
