@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Word Clouds: Hemingway's Paris Reading List"
-image: /img/hemingway_noun_cloud.png
 tags: [research, hemingway, visualization, TheLostGeneration]
 show-avatar: true
 ---
