@@ -6,7 +6,7 @@ show-avatar: true
 bigimg: /img/research.jpg
 ---
 
-A short communiqué on transparency, reproducibility, and acceptance
+A short communiqué on transparency, reproducibility, and acceptance.
 
 ## Aspiration One: Laying All My Cards on the Table
 
@@ -47,3 +47,6 @@ Researchers (particularly in the humanities) rarely publish the failed experimen
 But the gears of change are in motion. Some journals are [calling for negative results](http://culturalanalytics.org/2018/03/send-us-your-null-results/) while others *only* [accept](http://www.jnr-eeb.org/index.php/jnr/index) [negative](https://jnrbm.biomedcentral.com/) [results](http://revistas.proeditio.com/jonnpr/index).
 
 And while I can't say that I'm rooting for negative results, I can say that I'll be polishing those results for publication with the same care as postive ones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDY0MjQxNDM3XX0=
+-->
