@@ -5,7 +5,6 @@ subtitle: "A Hands-On Introduction to Python's Magic Methods"
 image: /img/sorcerers_code.jpg
 tags: [programming, Python, teaching]
 show-avatar: true
-bigimg: /img/sorcerers_code.jpg
 ---
 
 # We're Going to Need a Little Magic
