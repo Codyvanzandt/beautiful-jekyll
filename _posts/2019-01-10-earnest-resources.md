@@ -2,7 +2,6 @@
 layout: post
 title: "Resources for Directing The Importance of Being Earnest"
 subtitle: "A Condensed Script, Audition Sides, and a Rehearsal Schedule"
-image: /img/earnest.png
 tags: [theater, resources, directing]
 show-avatar: true
 ---
