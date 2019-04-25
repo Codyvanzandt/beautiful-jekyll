@@ -18,6 +18,17 @@ p {
     width: 55%;
 }
 
+code {
+  font-size: 90%;
+  color: #aaa;
+}
+
+p code {
+    position: absolute;
+    text-align: right;
+    right: -20%;
+}
+
 h1+p {
   position: relative;
   left: 25%;
