@@ -20,7 +20,6 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -55,9 +54,6 @@ body {
 	font: normal normal 400;
 	font-size: 12pt;
 	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	/*margin-top: 1em;
-	margin-left: 1em;*/
 }
 
 p {
@@ -88,13 +84,6 @@ ul {
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
-
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
 
 li {
 	/*second line indent*/
@@ -149,13 +138,9 @@ h3 {
 }
 
 a {
-	color: inherit;
 	text-decoration:none
 }
 
-a:hover {
-	color:#39f
-}
 
 #webaddress {
 	margin-top: 1em;
@@ -170,7 +155,6 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e
 }
 
 strong {
