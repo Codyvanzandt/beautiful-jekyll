@@ -8,9 +8,9 @@ JPMorgan Chase & Co.<br>
 Houston, Texas<br>
 
 <p>
-<a href="mailto:cody.a.vanzandt@gmail.com">cody.a.vanzandt@gmail.com</a>
-| <a href="https://codyvanzandt.com">codyvanzandt.com</a>
-<p>
+  <a href="mailto:cody.a.vanzandt@gmail.com">cody.a.vanzandt@gmail.com</a>
+  <a href="https://codyvanzandt.com">codyvanzandt.com</a>
+</p>
 
 ## Education
 
