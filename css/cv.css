@@ -20,7 +20,8 @@ p {
 
 code {
   font-size: 90%;
-  color: #aaa;
+  background-color: #fff;
+  font-color: #aaa;
 }
 
 p code {
