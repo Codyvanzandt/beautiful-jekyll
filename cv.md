@@ -7,10 +7,10 @@ Software Engineer<br>
 JPMorgan Chase & Co.<br>
 Houston, Texas<br>
 
-<div id="webaddress">
+<p>
 <a href="cody.a.vanzandt@gmail.com">cody.a.vanzandt@gmail.com</a>
 | <a href="codyvanzandt.com">codyvanzandt.com</a>
-</div>
+<p>
 
 ## Education
 
