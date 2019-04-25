@@ -22,6 +22,16 @@ Houston, Texas<br>
 `2017-present`
 **Software Engineer**, *JPMorgan Chase & Co. Corporate and Investment Bank*, Houston, TX, USA.
 
+## Publications
+
+## Presentations
+
+## Invited Talks
+
+## Teaching
+
+## Skills
+
 
 <!-- ### Footer
 
