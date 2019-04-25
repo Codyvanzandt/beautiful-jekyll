@@ -4,7 +4,7 @@ h1 {
   align-items: center;
 }
 
-h1 p {
+h1+p {
   font-style: italic;
   font-size: 110%;
   margin-bottom: 0.7em;
