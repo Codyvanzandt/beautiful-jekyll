@@ -1,10 +1,13 @@
 h1 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  position: relative;
+  left: 25%;
+  text-align: left;
 }
 
 h1+p {
+  position: relative;
+  left: 25%;
+  
   font-style: italic;
   font-size: 110%;
   margin-bottom: 0.7em;
