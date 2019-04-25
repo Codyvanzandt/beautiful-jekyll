@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: Isaac Newtons's CV
-show-avatar: false
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
