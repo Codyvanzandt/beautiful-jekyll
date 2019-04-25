@@ -24,7 +24,7 @@ description: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "cv"
+  CV!: "cv"
   Better Coding Through Shakespeare: "BetterCodingThroughShakespeare"
 
 
