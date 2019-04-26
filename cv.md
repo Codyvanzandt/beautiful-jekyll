@@ -10,7 +10,7 @@ title: ""
 
 ## Education
 
-###### 2013-2017 
+###### 2013-2017
 **BA., English and Computer Science**  
 *Rice University*  
 Houston, TX, USA.
@@ -39,7 +39,7 @@ Director and Executive Producer
 **COLL 193: Introduction to Guitar**  
 *Rice University*
 
-###### Summer 2016 
+###### Summer 2016
 **Introduction to Creative Writing**  
 *Lamar University Texas Governor's School*
 
