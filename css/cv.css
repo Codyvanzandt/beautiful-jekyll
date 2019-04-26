@@ -5,16 +5,20 @@ h1 {
 }
 
 h2 {
+  width: 20%;
   float: left;
+  text-align: right;
 }
 
 p {
-  width: 40%;
+  width: 60%;
   margin: auto;
   text-align: left;
 }
 
 code {
+  width: 20%;
   float: right;
+  text-align: left;
 }
 
