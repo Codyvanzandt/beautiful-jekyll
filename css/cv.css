@@ -1,20 +1,10 @@
+
 .container {
+  width: 50%;
   margin: auto;
-  text-align: center;
-}
-
-p em {
-  display: inline-block;
-  width: 60%;
-  text-align: right;
-}
-
-p strong {
-  display: inline-block;
-  width: 20%;
-}
-
-h2 {
   text-align: left;
 }
 
+p em {
+  float: right;
+}
