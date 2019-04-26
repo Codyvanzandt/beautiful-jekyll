@@ -4,6 +4,10 @@
   text-align: left;
 }
 
+h2 {
+  float: left;
+}
+
 p em {
   float: right;
 }
