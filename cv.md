@@ -5,54 +5,74 @@ title: ""
 
 # Cody VanZandt
 
-[cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com)  
-[codyvanzandt.com](codyvanzandt.com)
+[codyvanzandt@wustl.edu](mailto:codyvanzandt@wustl.edu) | [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com) | [codyvanzandt.com](codyvanzandt.com)
 
 ## Education
 
-**BA., English and Computer Science**
-*2013-2017*  
-Rice University  
-Houston, TX, USA.
+**PhD Student in English**
+Washington University in St. Louis. Beginning Fall 2019.
 
-## Experience
+**B.A. in English and Computer Science**
+Rice University. May 2017.
+
+## Fields of Study
+Cultural Analytics, Digital Humanities, Critical Code Studies, Transatlantic Modernism, Theater in Performance.
+
+## Professional Experience
 
 **Software Engineer**
-*2017-present*  
-JPMorgan Chase & Co.  
-Houston TX, USA.
+JPMorgan Chase & Co. August 2017 - June 2019.
 
-## Presentations
+## Conference Papers and Symposia
 
 **The American (Syllabus) Experiment**
-*12 April 2017*  
-Rice Undergraduate Research Symposium
+Rice Undergraduate Research Symposium.
+Rice University. 12 April 2017.
+
+## Theatrical Credits
 
 **The Importance of Being Earnest**
-*Spring 2017*  
-Rice University  
-Director and Executive Producer
+Director and Executive Producer.
+Rice University. Spring 2017
+
+**Much Ado About Nothing**
+Composer, actor (Balthasar).
+Rice University. Fall 2015.
 
 ## Teaching
 
+### Undergraduate Teaching
+
 **COLL 193: Introduction to Guitar**
-*Spring 2016*  
-Rice University
+Rice University. Spring 2016.
+
+### Secondary School Teaching
 
 **Introduction to Creative Writing**
-*Summer 2016*  
-Lamar University Texas Governor's School
+Lamar University Texas Governor's School. Summer 2016.
 
 **Advanced Mental Mathematics**
-*Summer 2016*  
-Lamar University Texas Governor's School
+Lamar University Texas Governor's School. Summer 2016.
 
 **Musical Ensemble**
-*Summer 2015*  
-Lamar University Texas Governor's School
+Lamar University Texas Governor's School. Summer 2015.
 
-## Skills
+### Workshops
 
+[**Better Coding Through Shakespeare**](https://codyvanzandt.com/BetterCodingThroughShakespeare/)
+JPMorgan Chase & Co. August 2018.
+
+[**The Sorcerer's Code**](https://codyvanzandt.com/2018-08-31-sorcerers_code/)
+JPMorgan Chase & Co. July 2018.
+
+
+## Proficiencies
+
+### Languages
+**Spanish**
+Intermediate.
+
+### Technical Proficiencies
 Full-Stack Software Engineering  
 Data Science and Machine Learning  
 Database Design
