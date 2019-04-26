@@ -1,11 +1,13 @@
 h1 {
   width: 80%;
   margin: auto;
-  text-align: center;
+  text-align: left;
+  display: inline-block;
 }
 
 h2 {
   width: 20%;
   text-align: right;
+  display: inline-block;
 }
 
