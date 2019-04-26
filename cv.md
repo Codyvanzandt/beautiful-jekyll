@@ -9,7 +9,7 @@ title: ""
 
 ## Education
 
-**PhD Student in English**  
+**Ph.D. Student in English**  
 Washington University in St. Louis. Beginning Fall 2019.
 
 **B.A. in English and Computer Science**  
