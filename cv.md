@@ -3,7 +3,7 @@ layout: cv
 title: ""
 ---
 
-# Cody VanZandt!
+# Cody VanZandt
 
 Software Engineer  
 JPMorgan Chase & Co.  
