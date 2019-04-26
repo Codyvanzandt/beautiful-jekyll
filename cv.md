@@ -3,7 +3,7 @@ layout: cv
 title: ""
 ---
 
-# Cody VanZandt!
+# Cody VanZandt
 
 [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com)  
 [codyvanzandt.com](codyvanzandt.com)
