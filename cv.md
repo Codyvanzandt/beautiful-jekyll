@@ -27,16 +27,6 @@ Houston, TX, USA.
 Houston TX, USA.
 
 
-## Publications
-###### August 2018
-**The Sorcerer's Code**  
-*JPMorgan Chase & Co.*
-
-###### July 2018
-**Better Coding Through Shakespeare**
-*JPMorgan Chase & Co.*
-
-
 ## Presentations
 ###### 12 April 2017
 **The American (Syllabus) Experiment**
@@ -46,12 +36,6 @@ Houston TX, USA.
 **The Importance of Being Earnest**  
 *Rice University*  
 Director and Executive Producer
-
-
-## Invited Talks
-###### 16 June 2017
-**Why I Study the Humanities and You Should Too**  
-*Lamar University Texas Governor's School*
 
 
 ## Teaching
