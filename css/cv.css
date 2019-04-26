@@ -5,6 +5,5 @@
 }
 
 p em {
-  right: 100%;
-  text-align: left;
+  float: right;
 }
