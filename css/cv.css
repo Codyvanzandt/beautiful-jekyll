@@ -6,8 +6,12 @@
 
 h2 {
   width: 25%;
+  margin: auto;
+  text-align: right;
 }
 
 p em {
-  float: right;
+  width: 25%;
+  margin: auto;
+  text-align: left;
 }
