@@ -6,14 +6,15 @@ h1 {
 
 h2 {
   width: 20%;
-  right: 20%;
+  float: left;
+  margin: auto;
   text-align: right;
-  display: inline;
 }
 
 code {
   width: 20%;
+  float: right;
+  margin: auto;
   text-align: left;
-  display: inline;
 }
 
