@@ -5,7 +5,7 @@ title: ""
 
 # Cody VanZandt
 
-[codyvanzandt@wustl.edu](mailto:codyvanzandt@wustl.edu) - [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com) - [codyvanzandt.com](codyvanzandt.com)
+[codyvanzandt@wustl.edu](mailto:codyvanzandt@wustl.edu) - [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com) - [codyvanzandt.com](https://codyvanzandt.com)
 
 ## Education
 
