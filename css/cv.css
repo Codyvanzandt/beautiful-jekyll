@@ -1,17 +1,18 @@
 h1 {
-  width: 30%;
+  width: 60%;
   margin: auto;
-  text-align: left;
+  text-align: center;
 }
 
 h2 {
-  width: 30%;
+  width: 20%;
+  right: 20%;
   text-align: right;
 }
 
 code {
-  width: 30%;
+  width: 20%;
   text-align: left;
-  right: -30%;
+  right: -20%;
 }
 
