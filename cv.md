@@ -5,14 +5,14 @@ title: ""
 
 # Cody VanZandt
 
-[codyvanzandt@wustl.edu](mailto:codyvanzandt@wustl.edu) | [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com) | [codyvanzandt.com](codyvanzandt.com)
+[codyvanzandt@wustl.edu](mailto:codyvanzandt@wustl.edu) - [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com) - [codyvanzandt.com](codyvanzandt.com)
 
 ## Education
 
-**PhD Student in English**
+**PhD Student in English**  
 Washington University in St. Louis. Beginning Fall 2019.
 
-**B.A. in English and Computer Science**
+**B.A. in English and Computer Science**  
 Rice University. May 2017.
 
 ## Fields of Study
@@ -20,49 +20,49 @@ Cultural Analytics, Digital Humanities, Critical Code Studies, Transatlantic Mod
 
 ## Professional Experience
 
-**Software Engineer**
+**Software Engineer**  
 JPMorgan Chase & Co. August 2017 - June 2019.
 
 ## Conference Papers and Symposia
 
-**The American (Syllabus) Experiment**
-Rice Undergraduate Research Symposium.
+**The American (Syllabus) Experiment**  
+Rice Undergraduate Research Symposium.  
 Rice University. 12 April 2017.
 
 ## Theatrical Credits
 
-**The Importance of Being Earnest**
-Director and Executive Producer.
-Rice University. Spring 2017
+**The Importance of Being Earnest**  
+Director and Executive Producer.  
+Rice University. Spring 2017.
 
-**Much Ado About Nothing**
-Composer, actor (Balthasar).
+**Much Ado About Nothing**  
+Composer, actor (Balthasar).  
 Rice University. Fall 2015.
 
 ## Teaching
 
 ### Undergraduate Teaching
 
-**COLL 193: Introduction to Guitar**
+**COLL 193: Introduction to Guitar**  
 Rice University. Spring 2016.
 
 ### Secondary School Teaching
 
-**Introduction to Creative Writing**
+**Introduction to Creative Writing**  
 Lamar University Texas Governor's School. Summer 2016.
 
-**Advanced Mental Mathematics**
+**Advanced Mental Mathematics**  
 Lamar University Texas Governor's School. Summer 2016.
 
-**Musical Ensemble**
+**Musical Ensemble**  
 Lamar University Texas Governor's School. Summer 2015.
 
 ### Workshops
 
-[**Better Coding Through Shakespeare**](https://codyvanzandt.com/BetterCodingThroughShakespeare/)
+[**Better Coding Through Shakespeare**](https://codyvanzandt.com/BetterCodingThroughShakespeare/)  
 JPMorgan Chase & Co. August 2018.
 
-[**The Sorcerer's Code**](https://codyvanzandt.com/2018-08-31-sorcerers_code/)
+[**The Sorcerer's Code**](https://codyvanzandt.com/2018-08-31-sorcerers_code/)  
 JPMorgan Chase & Co. July 2018.
 
 
