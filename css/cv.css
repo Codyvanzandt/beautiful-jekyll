@@ -2,18 +2,20 @@ h1 {
   width: 60%;
   margin: auto;
   text-align: center;
+  postion: fixed;
 }
 
 h2 {
   width: 20%;
   right: 20%;
   text-align: right;
+  position: fixed;
 }
 
 code {
   width: 20%;
   text-align: left;
   right: -20%;
-  position: absolute;
+  position: fixed;
 }
 
