@@ -5,15 +5,9 @@
 }
 
 h2 {
-  width: 20%;
-  margin: auto;
-  left: 0%;
-  text-align: left;
+  float: left;
 }
 
 p em {
-  width: 20%;
-  margin: auto;
-  right: 100%;
-  text-align: left;
+  float: right;
 }
