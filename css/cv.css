@@ -1,17 +1,19 @@
 .container {
-  width: 50%;
+  width: 40%;
   margin: auto;
   text-align: left;
 }
 
 h2 {
-  width: 25%;
+  width: 20%;
   margin: auto;
-  text-align: right;
+  left: 0%;
+  text-align: left;
 }
 
 p em {
-  width: 25%;
+  width: 20%;
   margin: auto;
+  right: 100%;
   text-align: left;
 }
