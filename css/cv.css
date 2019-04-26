@@ -5,12 +5,13 @@
 
 p em {
   display: inline-block;
-  width: 20%
+  width: 80%;
+  text-align: right;
 }
 
 p strong {
   display: inline-block;
-  width: 80%;
+  width: 20%;
 }
 
 h2 {
