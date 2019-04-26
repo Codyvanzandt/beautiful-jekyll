@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: ""
+show-avatar: false
 ---
 
 # Cody VanZandt
