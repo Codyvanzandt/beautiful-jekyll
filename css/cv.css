@@ -5,14 +5,10 @@
 }
 
 p em {
-  width: 50%;
-  display: inline-block;
   text-align: right;
 }
 
 p strong {
-  width: 50%;
-  display: inline-block;
   text-align: left;
 }
 
