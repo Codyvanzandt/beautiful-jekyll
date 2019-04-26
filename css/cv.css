@@ -9,6 +9,10 @@ h2 {
 }
 
 p em {
-  float: right;
+  display: inline-block;
+}
+
+p strong {
+  display: inline-block;
 }
 
