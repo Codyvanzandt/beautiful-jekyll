@@ -1,7 +1,3 @@
-h2 {
-  display: inline-block;
-}
-
-h6 {
+h2, h6 {
   display: inline-block;
 }
