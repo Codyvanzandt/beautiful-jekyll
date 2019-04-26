@@ -11,14 +11,14 @@ title: ""
 ## Education
 
 **BA., English and Computer Science**
-*2013-2017*
+*2013-2017*  
 Rice University  
 Houston, TX, USA.
 
 ## Experience
 
 **Software Engineer**
-*2017-present*
+*2017-present*  
 JPMorgan Chase & Co.  
 Houston TX, USA.
 
