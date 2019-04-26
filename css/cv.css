@@ -11,6 +11,12 @@ h2 {
   text-align: right;
 }
 
+p {
+  width: 40%;
+  margin: auto;
+  text-align: left;
+}
+
 code {
   width: 20%;
   float: right;
