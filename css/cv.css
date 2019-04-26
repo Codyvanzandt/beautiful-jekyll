@@ -6,8 +6,6 @@ h1 {
 
 h2 {
   float: left;
-  margin: auto;
-  text-align: right;
 }
 
 p {
@@ -18,7 +16,5 @@ p {
 
 code {
   float: right;
-  margin: auto;
-  text-align: left;
 }
 
