@@ -1,5 +1,5 @@
 h1 {
-  width: 40%;
+  width: 30%;
   margin: auto;
   text-align: left;
 }
@@ -7,5 +7,11 @@ h1 {
 h2 {
   width: 30%;
   text-align: right;
+}
+
+code {
+  width: 30%;
+  text-align: left;
+  right: -30%;
 }
 
