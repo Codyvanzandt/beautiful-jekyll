@@ -1,5 +1,9 @@
-h1, p {
+h1 {
   width: 80%;
   margin: auto;
   text-align: center;
+}
+
+p {
+  left: 10%
 }
