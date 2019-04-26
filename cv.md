@@ -24,7 +24,7 @@ Houston TX, USA.
 
 ## Presentations
 
-**The American (Syllabus) Experiment**  
+**The American (Syllabus) Experiment**
 *12 April 2017*  
 Rice Undergraduate Research Symposium
 
