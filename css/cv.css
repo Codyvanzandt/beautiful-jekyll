@@ -5,7 +5,6 @@ h1 {
 }
 
 h2 {
-  width: 20%;
   float: left;
   margin: auto;
   text-align: right;
@@ -18,7 +17,6 @@ p {
 }
 
 code {
-  width: 20%;
   float: right;
   margin: auto;
   text-align: left;
