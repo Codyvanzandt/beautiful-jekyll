@@ -19,7 +19,7 @@ Houston, TX, USA.
 
 ###### 2017-present
 **Software Engineer**  
-*JPMorgan Chase & Co.  
+*JPMorgan Chase & Co.*  
 Houston TX, USA.
 
 ## Presentations
