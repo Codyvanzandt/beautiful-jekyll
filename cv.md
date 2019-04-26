@@ -14,7 +14,7 @@ Houston, Texas
 
   
 ## Education
-**BA., English and Computer Science**`2013-2017`
+**BA., English and Computer Science**`2013-2017`  
 *Rice University*  
 Houston, TX, USA.
 
