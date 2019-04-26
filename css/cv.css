@@ -10,9 +10,11 @@ h2 {
 
 p em {
   display: inline-block;
+  text-align: right;
 }
 
 p strong {
   display: inline-block;
+  text-align: left;
 }
 
