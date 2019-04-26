@@ -4,6 +4,10 @@
   text-align: left;
 }
 
+h2 {
+  position: relative;
+}
+
 p em {
   float: right;
 }
