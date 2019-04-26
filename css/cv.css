@@ -9,7 +9,12 @@ p {
 }
 
 p em {
+  display: inline-block;
   text-align: right;
+}
+
+p strong {
+  display: inline-block;
 }
 
 h2 {
