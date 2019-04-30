@@ -26,11 +26,14 @@ What do you want to import?
 	Absolute path from where you currently are to your object.
 Do you want to give it a nickname?
 
+#### Importing a Module
+
+#### Importing Something Inside a Module
+
 #### 
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMzYyNDU5LC0xNjYyNjc0MDcxLDE4MT
+eyJoaXN0b3J5IjpbNjgwODYwNjY3LC0xNjYyNjc0MDcxLDE4MT
 E5NzI5NTAsNDczNjIxMTQzXX0=
 -->
