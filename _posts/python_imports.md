@@ -17,10 +17,11 @@ In a perfect world, we divide up our code into Python **modules** much in the sa
 ### Packages
 If Python code lives in modules, then where do modules live? 
 Modules live in folders, or in Python-speak, **packages**.
-Just as **modules** allow us to group together pieces of Python code, **packages** allow us to group together related **modules**. Continuing with our writing metaphor, **packages** are chapters that combine paragraphs together in order to express an even bigger idea. 
-
+Just as **modules** allow us to group together pieces of Python code, **packages** allow us to group together related **modules**. Continuing with our writing metaphor, **packages** are chapters that combine paragraphs together in order to express an even bigger idea.
 And just like chapters can contain sub-chapters inside of them, packages can contain sub-packages! 
+
+### Okay - Back to Imports: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzQ0NTA4MywxODExOTcyOTUwLDQ3Mz
-YyMTE0M119
+eyJoaXN0b3J5IjpbLTE2NjI2NzQwNzEsMTgxMTk3Mjk1MCw0Nz
+M2MjExNDNdfQ==
 -->
