@@ -64,10 +64,12 @@ What do you want to import?
 
 ### Integrating Gitport with Python's Import API
 
-## 
+## Summary
+
+## Where to Go from Here?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTkzMTA0NSwtMjA3MTk0NTYzOSwtMT
+eyJoaXN0b3J5IjpbLTg2ODIyNzU4NCwtMjA3MTk0NTYzOSwtMT
 IxMTU3MTI4NywxMDQ2OTY4ODE5LDE1NjQ4MDI2OTQsLTE1NDA5
 ODAwMjEsLTE0NTcwMjQzNzUsLTEwODcxODY3MDgsNjgwODYwNj
 Y3LC0xNjYyNjc0MDcxLDE4MTE5NzI5NTAsNDczNjIxMTQzXX0=
