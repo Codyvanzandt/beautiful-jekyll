@@ -21,12 +21,12 @@ And just like chapters can contain sub-chapters inside of them, packages can con
 ## Back to Imports
 Now that we know where Python code lives, it's time to get back to our original question: how do we use Python code that lives somewhere else? How do we **import** that code from *where it lives* into *where we want to use it*?
 
-### 
+### The Structure of an I
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODgxODc0MywtMTY2MjY3NDA3MSwxOD
+eyJoaXN0b3J5IjpbMTUxMTcxMDA1OCwtMTY2MjY3NDA3MSwxOD
 ExOTcyOTUwLDQ3MzYyMTE0M119
 -->
