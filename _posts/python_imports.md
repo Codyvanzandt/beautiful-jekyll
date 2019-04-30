@@ -7,11 +7,13 @@
 
 #### What Do You Mean by "Somewhere Else?"
 Python code lives in files that end in ".py"
-In Python-speak, these Python files i **"module"**.
+In Python-speak, these Python files are called **"modules"**.
+Modules can 
 
 ##### 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjg1ODk0MywxODExOTcyOTUwLDQ3Mz
-YyMTE0M119
+eyJoaXN0b3J5IjpbNDUwNTMxNTA3LDE4MTE5NzI5NTAsNDczNj
+IxMTQzXX0=
 -->
