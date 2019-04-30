@@ -16,9 +16,8 @@ In a perfect world, we divide up our code into Python **modules** much in the sa
 
 #### Packages
 In addition to **modules**, Python provides another organizational tool: **packages**.
-**Packages** are like folders/directories on your computer
-
+**Packages** allow you to group related **modules** together. One 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzUzNzYzMiwxODExOTcyOTUwLDQ3Mz
+eyJoaXN0b3J5IjpbMTQ4MDMzOTQxMSwxODExOTcyOTUwLDQ3Mz
 YyMTE0M119
 -->
