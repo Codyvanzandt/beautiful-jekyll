@@ -30,11 +30,11 @@ Do you want to give it a nickname?
 
 #### Importing Something Inside a Module
 
-#### Explicit Imports
+#### Absolute Imports
 
 #### Relative Imports
 
-### I
+### Imports 102: 
 
 ### Imports 102: How Do They Actually Work?
 
@@ -43,7 +43,7 @@ Do you want to give it a nickname?
 #### Loaders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA5NjYwODQsLTE0NTcwMjQzNzUsLT
-EwODcxODY3MDgsNjgwODYwNjY3LC0xNjYyNjc0MDcxLDE4MTE5
-NzI5NTAsNDczNjIxMTQzXX0=
+eyJoaXN0b3J5IjpbMTIzODU4NTkxNywtMTQ1NzAyNDM3NSwtMT
+A4NzE4NjcwOCw2ODA4NjA2NjcsLTE2NjI2NzQwNzEsMTgxMTk3
+Mjk1MCw0NzM2MjExNDNdfQ==
 -->
