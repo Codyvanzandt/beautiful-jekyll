@@ -46,15 +46,19 @@ What do you want to import?
 
 #### Loaders
 
+## Imports 202: 
+
 ## Imports 301: Hacking Python's Import System
 
-### How 
+### Creating gitImport, a GitHub-Based Importer
 
-## How 
+### Integrating gitImport with Python's Import API
+
+## How to I
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE1NzEyODcsMTA0Njk2ODgxOSwxNT
-Y0ODAyNjk0LC0xNTQwOTgwMDIxLC0xNDU3MDI0Mzc1LC0xMDg3
-MTg2NzA4LDY4MDg2MDY2NywtMTY2MjY3NDA3MSwxODExOTcyOT
-UwLDQ3MzYyMTE0M119
+eyJoaXN0b3J5IjpbMTY0ODkwMDc1MCwtMTIxMTU3MTI4NywxMD
+Q2OTY4ODE5LDE1NjQ4MDI2OTQsLTE1NDA5ODAwMjEsLTE0NTcw
+MjQzNzUsLTEwODcxODY3MDgsNjgwODYwNjY3LC0xNjYyNjc0MD
+cxLDE4MTE5NzI5NTAsNDczNjIxMTQzXX0=
 -->
