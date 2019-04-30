@@ -28,7 +28,7 @@ What do you want to import?
 
 #### Importing a Module
 
-#### Importing Something Inside a Module
+#### Importing Something Inside of a Module
 
 #### Absolute Imports
 
@@ -36,14 +36,14 @@ What do you want to import?
 
 ### Imports 102: 
 
-### Imports 201: How Do They Actually Work?
+### Imports 201: How Do They Work Under the Hood?
 
 #### Finders
 
 #### Loaders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA5ODAwMjEsLTE0NTcwMjQzNzUsLT
-EwODcxODY3MDgsNjgwODYwNjY3LC0xNjYyNjc0MDcxLDE4MTE5
-NzI5NTAsNDczNjIxMTQzXX0=
+eyJoaXN0b3J5IjpbMTU2NDgwMjY5NCwtMTU0MDk4MDAyMSwtMT
+Q1NzAyNDM3NSwtMTA4NzE4NjcwOCw2ODA4NjA2NjcsLTE2NjI2
+NzQwNzEsMTgxMTk3Mjk1MCw0NzM2MjExNDNdfQ==
 -->
