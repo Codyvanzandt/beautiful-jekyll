@@ -23,8 +23,8 @@ Now that we know where Python code lives, it's time to get back to our original 
 
 ### Imports 101: The Basics of Using Imports
 What do you want to import?
-	Absolute path from where you currently are to your object.
-Do you want to give it a nickname?
+	1. Absolute path from *where you currently are* to *what you want to import*
+	2. Do you want to give it a nickname?
 
 #### Importing a Module
 
@@ -43,7 +43,7 @@ Do you want to give it a nickname?
 #### Loaders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODg2Mzk5NywtMTQ1NzAyNDM3NSwtMT
-A4NzE4NjcwOCw2ODA4NjA2NjcsLTE2NjI2NzQwNzEsMTgxMTk3
-Mjk1MCw0NzM2MjExNDNdfQ==
+eyJoaXN0b3J5IjpbLTE1NDA5ODAwMjEsLTE0NTcwMjQzNzUsLT
+EwODcxODY3MDgsNjgwODYwNjY3LC0xNjYyNjc0MDcxLDE4MTE5
+NzI5NTAsNDczNjIxMTQzXX0=
 -->
