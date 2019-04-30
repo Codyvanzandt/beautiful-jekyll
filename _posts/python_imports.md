@@ -15,9 +15,10 @@ In a perfect world, we divide up our code into Python **modules** much in the sa
 (Kitchen example! Fork.py, Knife.py, Spoon.py, KitchenDrawer.py )
 
 #### Packages
-In addition to **modules**, Python provi
+In addition to **modules**, Python provides another organizational tool: **packages**.
+**Packages** are like folders/directories on your computer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MTEzNDg2LDE4MTE5NzI5NTAsNDczNj
-IxMTQzXX0=
+eyJoaXN0b3J5IjpbMTAyMzUzNzYzMiwxODExOTcyOTUwLDQ3Mz
+YyMTE0M119
 -->
