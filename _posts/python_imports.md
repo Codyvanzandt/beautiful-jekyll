@@ -19,10 +19,12 @@ Just as **modules** allow us to group together pieces of Python code, **packages
 And just like chapters can contain sub-chapters inside of them, packages can contain sub-packages! 
 
 ## Back to Imports
-Now that we know where Python code lives, it's time to get back to our original question: how do we use Python code that lives somewhere else? 
+Now that we know where Python code lives, it's time to get back to our original question: how do we use Python code that lives somewhere else? How do we **import** that code from *where it lives* into where we want to use it?
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg2MDk0NDQsLTE2NjI2NzQwNzEsMT
-gxMTk3Mjk1MCw0NzM2MjExNDNdfQ==
+eyJoaXN0b3J5IjpbMTMyMTk1Njg3MiwtMTY2MjY3NDA3MSwxOD
+ExOTcyOTUwLDQ3MzYyMTE0M119
 -->
