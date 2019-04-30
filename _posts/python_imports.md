@@ -3,7 +3,7 @@
 ## What Is an Import?
 **Imports** allow us to use code that lives somewhere else -- somewhere different than where we're currently working. 
 
-## What Do You Mean by "Somewhere Else?"
+### What Do You Mean by "Somewhere Else?"
 
 ### Modules
 Python code lives in files that end in ".py"
@@ -21,7 +21,7 @@ And just like chapters can contain sub-chapters inside of them, packages can con
 ## Back to Imports
 Now that we know where Python code lives, it's time to get back to our original question: how do we use Python code that lives somewhere else? How do we **import** that code from *where it lives* into *where we want to use it*?
 
-### Imports 101: The Basics of Using Imports
+## Imports 101: The Basics of Using Imports
 What do you want to import?
 	1. Absolute path from *where you currently are* to *what you want to import*
 	2. Do you want to give it a nickname?
@@ -34,21 +34,23 @@ What do you want to import?
 
 #### Relative Imports
 
-### Imports 102: How Do Imports Work?
+## Imports 102: How Do Imports Work?
 
 #### How Does Python Search for Objects to Import?
 
 #### Running a Module Complicates Things
 
-### Imports 201: How Do Imports *Really* Work?
+## Imports 201: How Do Imports *Really* Work?
 
 #### Finders
 
 #### Loaders
 
+## How 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Njk2ODgxOSwxNTY0ODAyNjk0LC0xNT
-QwOTgwMDIxLC0xNDU3MDI0Mzc1LC0xMDg3MTg2NzA4LDY4MDg2
-MDY2NywtMTY2MjY3NDA3MSwxODExOTcyOTUwLDQ3MzYyMTE0M1
-19
+eyJoaXN0b3J5IjpbLTE0MzYwOTE5NDEsMTA0Njk2ODgxOSwxNT
+Y0ODAyNjk0LC0xNTQwOTgwMDIxLC0xNDU3MDI0Mzc1LC0xMDg3
+MTg2NzA4LDY4MDg2MDY2NywtMTY2MjY3NDA3MSwxODExOTcyOT
+UwLDQ3MzYyMTE0M119
 -->
