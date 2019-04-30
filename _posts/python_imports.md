@@ -38,14 +38,16 @@ What do you want to import?
 
 #### How Does Python Search for Objects to Import?
 
-#### Running 
+#### The Problem with Ru
+
+### Imports 201: How Do Imports *Really* Work?
 
 #### Finders
 
 #### Loaders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4NDgyNTksMTU2NDgwMjY5NCwtMT
+eyJoaXN0b3J5IjpbLTE2NTQ2ODM0MTcsMTU2NDgwMjY5NCwtMT
 U0MDk4MDAyMSwtMTQ1NzAyNDM3NSwtMTA4NzE4NjcwOCw2ODA4
 NjA2NjcsLTE2NjI2NzQwNzEsMTgxMTk3Mjk1MCw0NzM2MjExND
 NdfQ==
