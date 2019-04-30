@@ -3,14 +3,13 @@
 ## Imports: An Overview
 
 ### What Is an Import?
-Imports allow us to use code that lives somewhere else -- somewhere different than where we're working. 
+Imports allow us to use code that lives somewhere else -- somewhere different than where we're currently working. 
 
-#### Where Can 
+#### What Do You Mean by "Somewhere Else?"
 
-### Why Do We Use Them?
-
+##### 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTMzMjg0NSwxODExOTcyOTUwLDQ3Mz
+eyJoaXN0b3J5IjpbMTY0ODU2MjkzMCwxODExOTcyOTUwLDQ3Mz
 YyMTE0M119
 -->
