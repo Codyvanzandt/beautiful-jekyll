@@ -48,13 +48,15 @@ What do you want to import?
 
 ## Imports 202: How Do I Import *THAT*?
 
+### Reasoning About Import Statements
+
 ### Importing from a Sibling
 
 ### Importing from a Child
 
 ### Importing from a Parent
 
-### Importing 
+### Importing Outside the Family Tree
 
 ## Imports 301: Hacking Python's Import System
 
@@ -63,8 +65,8 @@ What do you want to import?
 ### Integrating Gitport with Python's Import API
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjY1NDM0MiwtMTIxMTU3MTI4NywxMD
-Q2OTY4ODE5LDE1NjQ4MDI2OTQsLTE1NDA5ODAwMjEsLTE0NTcw
-MjQzNzUsLTEwODcxODY3MDgsNjgwODYwNjY3LC0xNjYyNjc0MD
-cxLDE4MTE5NzI5NTAsNDczNjIxMTQzXX0=
+eyJoaXN0b3J5IjpbLTIwNzE5NDU2MzksLTEyMTE1NzEyODcsMT
+A0Njk2ODgxOSwxNTY0ODAyNjk0LC0xNTQwOTgwMDIxLC0xNDU3
+MDI0Mzc1LC0xMDg3MTg2NzA4LDY4MDg2MDY2NywtMTY2MjY3ND
+A3MSwxODExOTcyOTUwLDQ3MzYyMTE0M119
 -->
