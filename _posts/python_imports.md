@@ -34,8 +34,12 @@ Do you want to give it a nickname?
 
 ### How Do Imports Actually Work?
 
+#### Finders
+
+#### Loaders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODcxODY3MDgsNjgwODYwNjY3LC0xNj
-YyNjc0MDcxLDE4MTE5NzI5NTAsNDczNjIxMTQzXX0=
+eyJoaXN0b3J5IjpbLTE0NTcwMjQzNzUsLTEwODcxODY3MDgsNj
+gwODYwNjY3LC0xNjYyNjc0MDcxLDE4MTE5NzI5NTAsNDczNjIx
+MTQzXX0=
 -->
