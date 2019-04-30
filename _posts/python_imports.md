@@ -46,18 +46,24 @@ What do you want to import?
 
 #### Loaders
 
-## Imports 202: 
+## Imports 202: How Do I Import *THAT*?
+
+### Importing from a Sibling
+
+### Importing from a Child
+
+### Importing from a Parent
+
+### Importing 
 
 ## Imports 301: Hacking Python's Import System
 
-### Creating gitImport, a GitHub-Based Importer
+### Creating Gitport, a GitHub-Based Importer
 
-### Integrating gitImport with Python's Import API
-
-## How to I
+### Integrating Gitport with Python's Import API
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODkwMDc1MCwtMTIxMTU3MTI4NywxMD
+eyJoaXN0b3J5IjpbMTQyMjY1NDM0MiwtMTIxMTU3MTI4NywxMD
 Q2OTY4ODE5LDE1NjQ4MDI2OTQsLTE1NDA5ODAwMjEsLTE0NTcw
 MjQzNzUsLTEwODcxODY3MDgsNjgwODYwNjY3LC0xNjYyNjc0MD
 cxLDE4MTE5NzI5NTAsNDczNjIxMTQzXX0=
