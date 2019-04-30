@@ -36,13 +36,17 @@ What do you want to import?
 
 ### Imports 102: How Do Imports Work?
 
+#### Where Does Python Look f
+
+#### Knowing Where You Are
+
 #### Finders
 
 #### Loaders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzE2NjE2MywxNTY0ODAyNjk0LC0xNT
-QwOTgwMDIxLC0xNDU3MDI0Mzc1LC0xMDg3MTg2NzA4LDY4MDg2
-MDY2NywtMTY2MjY3NDA3MSwxODExOTcyOTUwLDQ3MzYyMTE0M1
-19
+eyJoaXN0b3J5IjpbLTE2NDUwNTkwMzMsMTU2NDgwMjY5NCwtMT
+U0MDk4MDAyMSwtMTQ1NzAyNDM3NSwtMTA4NzE4NjcwOCw2ODA4
+NjA2NjcsLTE2NjI2NzQwNzEsMTgxMTk3Mjk1MCw0NzM2MjExND
+NdfQ==
 -->
