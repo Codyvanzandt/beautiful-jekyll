@@ -15,8 +15,9 @@ In a perfect world, we divide up our code into Python **modules** much in the sa
 (Kitchen example! Fork.py, Knife.py, Spoon.py, KitchenDrawer.py )
 
 #### Packages
-Now that we've divided our Python code in**modules**, we can go even further and divide our **modules** into **p**
+If Python code lives in modules, then where do those 
+Now that we've divided our Python code in **modules**, we can go even further and divide our **modules** into **packages**.  To continue with our writing metaphor: if **modules** are paragraphs, then **packages** are chapters. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3NDYxNTU3LDE4MTE5NzI5NTAsNDczNj
-IxMTQzXX0=
+eyJoaXN0b3J5IjpbLTEzNDE4MjU1NDgsMTgxMTk3Mjk1MCw0Nz
+M2MjExNDNdfQ==
 -->
