@@ -30,10 +30,12 @@ Do you want to give it a nickname?
 
 #### Importing Something Inside a Module
 
-#### 
+#### Relative Imports
+
+### How Do Imports Actually Work?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwODYwNjY3LC0xNjYyNjc0MDcxLDE4MT
-E5NzI5NTAsNDczNjIxMTQzXX0=
+eyJoaXN0b3J5IjpbLTEwODcxODY3MDgsNjgwODYwNjY3LC0xNj
+YyNjc0MDcxLDE4MTE5NzI5NTAsNDczNjIxMTQzXX0=
 -->
