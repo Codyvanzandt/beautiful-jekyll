@@ -38,7 +38,7 @@ What do you want to import?
 
 #### How Does Python Search for Objects to Import?
 
-#### The Problem with Ru
+#### Running a Module Complicates Things
 
 ### Imports 201: How Do Imports *Really* Work?
 
@@ -47,8 +47,8 @@ What do you want to import?
 #### Loaders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ2ODM0MTcsMTU2NDgwMjY5NCwtMT
-U0MDk4MDAyMSwtMTQ1NzAyNDM3NSwtMTA4NzE4NjcwOCw2ODA4
-NjA2NjcsLTE2NjI2NzQwNzEsMTgxMTk3Mjk1MCw0NzM2MjExND
-NdfQ==
+eyJoaXN0b3J5IjpbMTA0Njk2ODgxOSwxNTY0ODAyNjk0LC0xNT
+QwOTgwMDIxLC0xNDU3MDI0Mzc1LC0xMDg3MTg2NzA4LDY4MDg2
+MDY2NywtMTY2MjY3NDA3MSwxODExOTcyOTUwLDQ3MzYyMTE0M1
+19
 -->
