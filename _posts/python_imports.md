@@ -21,7 +21,7 @@ And just like chapters can contain sub-chapters inside of them, packages can con
 ## Back to Imports
 Now that we know where Python code lives, it's time to get back to our original question: how do we use Python code that lives somewhere else? How do we **import** that code from *where it lives* into *where we want to use it*?
 
-### The Structure of an Import
+### Imports 101
 What do you want to import?
 	Absolute path from where you currently are to your object.
 Do you want to give it a nickname?
@@ -43,7 +43,7 @@ Do you want to give it a nickname?
 #### Loaders
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAxNzc4MjgsLTE0NTcwMjQzNzUsLT
-EwODcxODY3MDgsNjgwODYwNjY3LC0xNjYyNjc0MDcxLDE4MTE5
-NzI5NTAsNDczNjIxMTQzXX0=
+eyJoaXN0b3J5IjpbMjA5NjE0MTQzNywtMTQ1NzAyNDM3NSwtMT
+A4NzE4NjcwOCw2ODA4NjA2NjcsLTE2NjI2NzQwNzEsMTgxMTk3
+Mjk1MCw0NzM2MjExNDNdfQ==
 -->
