@@ -8,12 +8,12 @@
 #### What Do You Mean by "Somewhere Else?"
 Python code lives in files that end in ".py"
 In Python-speak, these Python files are called **"modules"**.
-Modules are the basic organizational unit of Python programming
+In a perfect world, we divide up our code into Python **modules** in a way tha
 
 ##### 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDgwMjM1MzYsMTgxMTk3Mjk1MCw0Nz
-M2MjExNDNdfQ==
+eyJoaXN0b3J5IjpbLTkzMjExNDUwNywxODExOTcyOTUwLDQ3Mz
+YyMTE0M119
 -->
