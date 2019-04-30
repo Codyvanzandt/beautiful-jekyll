@@ -8,12 +8,12 @@
 #### What Do You Mean by "Somewhere Else?"
 Python code lives in files that end in ".py"
 In Python-speak, these Python files are called **"modules"**.
-Modules can 
+Every that you put in a **module** 
 
 ##### 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNTMxNTA3LDE4MTE5NzI5NTAsNDczNj
-IxMTQzXX0=
+eyJoaXN0b3J5IjpbLTE5NzU4MDQzMDYsMTgxMTk3Mjk1MCw0Nz
+M2MjExNDNdfQ==
 -->
