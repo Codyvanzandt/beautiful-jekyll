@@ -21,8 +21,8 @@ Just as **modules** allow us to group together pieces of Python code, **packages
 And just like chapters can contain sub-chapters inside of them, packages can contain sub-packages! 
 
 ### Back to Imports
-
+We now know that Python code lives in packages and modules. It's time to get back to our original question: how do we use Python 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjE3MzQyMiwtMTY2MjY3NDA3MSwxOD
-ExOTcyOTUwLDQ3MzYyMTE0M119
+eyJoaXN0b3J5IjpbLTIwNzQwODM5MjIsLTE2NjI2NzQwNzEsMT
+gxMTk3Mjk1MCw0NzM2MjExNDNdfQ==
 -->
