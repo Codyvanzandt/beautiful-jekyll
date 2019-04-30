@@ -15,9 +15,8 @@ In a perfect world, we divide up our code into Python **modules** much in the sa
 (Kitchen example! Fork.py, Knife.py, Spoon.py, KitchenDrawer.py )
 
 #### Packages
-In addition to **modules**, Python provides another organizational tool: **packages**.
-**Packages** allow you to group related **modules** together. One 
+Now that you've grouped your related pieces of Python into **modules**, you can go ever
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDMzOTQxMSwxODExOTcyOTUwLDQ3Mz
+eyJoaXN0b3J5IjpbMTM1NjU1MzM0MywxODExOTcyOTUwLDQ3Mz
 YyMTE0M119
 -->
