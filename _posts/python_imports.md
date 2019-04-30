@@ -15,8 +15,8 @@ In a perfect world, we divide up our code into Python **modules** much in the sa
 (Kitchen example! Fork.py, Knife.py, Spoon.py, KitchenDrawer.py )
 
 #### Packages
-Now that you've grouped your related pieces of Python into **modules**, you can go ever
+Now that we've divided our Python code in**modules**, we can go even further and divide our **modules** into **p**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjU1MzM0MywxODExOTcyOTUwLDQ3Mz
-YyMTE0M119
+eyJoaXN0b3J5IjpbNTk3NDYxNTU3LDE4MTE5NzI5NTAsNDczNj
+IxMTQzXX0=
 -->
