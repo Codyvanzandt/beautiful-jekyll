@@ -1,11 +1,9 @@
 # Imports
 
-## Imports: An Overview
-
-### What Is an Import?
+## What Is an Import?
 **Imports** allow us to use code that lives somewhere else -- somewhere different than where we're currently working. 
 
-### What Do You Mean by "Somewhere Else?"
+## What Do You Mean by "Somewhere Else?"
 
 ### Modules
 Python code lives in files that end in ".py"
@@ -20,9 +18,11 @@ Modules live in folders, or in Python-speak, **packages**.
 Just as **modules** allow us to group together pieces of Python code, **packages** allow us to group together related **modules**. Continuing with our writing metaphor, **packages** are chapters that combine paragraphs together in order to express an even bigger idea.
 And just like chapters can contain sub-chapters inside of them, packages can contain sub-packages! 
 
-### Back to Imports
-We now know that Python code lives in packages and modules. It's time to get back to our original question: how do we use Python 
+## Back to Imports
+Now ththat Python code lives in packages and modules. It's time to get back to our original question: how do we use Python code that lives somewhere else?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQwODM5MjIsLTE2NjI2NzQwNzEsMT
+eyJoaXN0b3J5IjpbLTExOTYxMjEzNDgsLTE2NjI2NzQwNzEsMT
 gxMTk3Mjk1MCw0NzM2MjExNDNdfQ==
 -->
