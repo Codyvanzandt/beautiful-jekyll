@@ -17,8 +17,8 @@ In a perfect world, we divide up our code into Python **modules** much in the sa
 #### Packages
 If Python code lives in modules, then where do modules live? 
 Modules live in folders, or in Python-speak, **packages**.
-If 
+Just as **modules** allow us to group together pieces of Python code, **packages** allow us to group together related **modules**. Continuing with our writing metaphor, **packages** are 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNTc1MDM1LDE4MTE5NzI5NTAsNDczNj
-IxMTQzXX0=
+eyJoaXN0b3J5IjpbMTQ5NTY0NzE4MiwxODExOTcyOTUwLDQ3Mz
+YyMTE0M119
 -->
