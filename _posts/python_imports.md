@@ -20,8 +20,9 @@ Modules live in folders, or in Python-speak, **packages**.
 Just as **modules** allow us to group together pieces of Python code, **packages** allow us to group together related **modules**. Continuing with our writing metaphor, **packages** are chapters that combine paragraphs together in order to express an even bigger idea.
 And just like chapters can contain sub-chapters inside of them, packages can contain sub-packages! 
 
-### Okay - Back to Imports: 
+### Back to Imports
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI2NzQwNzEsMTgxMTk3Mjk1MCw0Nz
-M2MjExNDNdfQ==
+eyJoaXN0b3J5IjpbMjEyNjE3MzQyMiwtMTY2MjY3NDA3MSwxOD
+ExOTcyOTUwLDQ3MzYyMTE0M119
 -->
