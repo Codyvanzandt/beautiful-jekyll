@@ -13,10 +13,10 @@ In Python-speak, these Python files are called **"modules"**.
 In a perfect world, we divide up our code into Python **modules** much in the same way as we divide up our writing into paragraphs. One paragraph expresses one idea, just as one **module** expresses one idea.
 
 #### Packages
-**Mod**
+**Modules** allow you to group 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODMzOTUyMCwxODExOTcyOTUwLDQ3Mz
-YyMTE0M119
+eyJoaXN0b3J5IjpbOTIxNDAyNTA5LDE4MTE5NzI5NTAsNDczNj
+IxMTQzXX0=
 -->
