@@ -6,10 +6,10 @@
 Imports allow us to use code that lives somewhere else -- somewhere different than where we're currently working. 
 
 #### What Do You Mean by "Somewhere Else?"
-There are two ways of organizing Python code.
+Python code lives in a files
 ##### 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODgzNzgzNiwxODExOTcyOTUwLDQ3Mz
+eyJoaXN0b3J5IjpbLTkwMzk0MTUyMywxODExOTcyOTUwLDQ3Mz
 YyMTE0M119
 -->
