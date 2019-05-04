@@ -136,7 +136,6 @@ img {
   border-bottom: 1px solid #EAEAEA;
   font-family: et-book, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
-  font-size: 1.7rem;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -145,7 +144,7 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 1px;
 }
 
