@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+published: false
 ---
 
 I'm currently a software engineer at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) in Houston, Texas. In addition to building things for JPMorgan's Corporate Investment Bank, I also recruit and mentor new engineers, conduct technical interviews, and teach Python programming.
