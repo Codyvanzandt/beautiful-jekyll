@@ -16,7 +16,7 @@ Washington University in St. Louis. Beginning Fall 2019.
 Rice University. May 2017.
 
 ## Fields of Study
-Cultural Analytics, Digital Humanities, Critical Code Studies, Transatlantic Modernism, Theater in Performance.
+Transatlantic Modernism, Digital Humanities, Sociology of Literature, Theater in Performance
 
 ## Professional Experience
 
