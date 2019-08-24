@@ -184,6 +184,7 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       show-avatar: true
+      show-post: true
   -
     scope:
       path: "" # all files
