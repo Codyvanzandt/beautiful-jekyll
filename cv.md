@@ -12,7 +12,7 @@ title: ""
 ## Education
 
 **Ph.D. Student in English**  
-Washington University in St. Louis. Beginning Fall 2019.
+Washington University in St. Louis. 2019 - present
 
 **B.A. in English and Computer Science**  
 Rice University. May 2017.
