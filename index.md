@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 # About
-I'm currently a PhD student in English and American Literature at Washington University in St. Louis. Previously, I was a software engineer for JPMorgan Chase & Co. in Houston, Texas. 
+I'm currently a first-year PhD student in English and American Literature at Washington University in St. Louis. Previously, I was a software engineer for JPMorgan Chase & Co. in Houston, Texas. 
 
 My scholarship focuses on digital humanities, theater in performance, and the sociology of literature. Quantitative methods are essential to my work, both as tools and as objects of study in their own right. I'm particularly committed to the idea that quantitative evidence and close reading can work together productively and robustly, even at relatively small scales.
 
