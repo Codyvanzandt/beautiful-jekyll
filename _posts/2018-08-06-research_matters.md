@@ -1,5 +1,6 @@
 ---
 layout: post
+show-post: false
 title: Aspirations for My Research Process
 tags: [research, writing]
 show-avatar: true
