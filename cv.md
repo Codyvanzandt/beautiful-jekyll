@@ -6,19 +6,18 @@ title: ""
 # Cody VanZandt
 
 [codyvanzandt@wustl.edu](mailto:codyvanzandt@wustl.edu)&nbsp;&nbsp;&nbsp;
-[cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com)&nbsp;&nbsp;&nbsp;
 [codyvanzandt.com](https://codyvanzandt.com)
 
 ## Education
 
 **Ph.D. Student in English**  
-Washington University in St. Louis. 2019 - present
+Washington University in St. Louis. August 2019 - present
 
 **B.A. in English and Computer Science**  
 Rice University. May 2017.
 
 ## Fields of Study
-Transatlantic Modernism, Digital Humanities, Sociology of Literature, Theater in Performance
+Digital Humanities, Transatlantic Modernism, Sociology of Literature
 
 ## Professional Experience
 
@@ -75,7 +74,8 @@ JPMorgan Chase & Co. July 2018.
 Intermediate.
 
 ### Technical Proficiencies
-Full-Stack Software Engineering  
+Full-Stack Software Engineering
 Data Science and Machine Learning  
 Database Design
+
 
