@@ -74,8 +74,8 @@ JPMorgan Chase & Co. July 2018.
 Intermediate.
 
 ### Technical Proficiencies
-Full-Stack Software Engineering
+Full-Stack Software Engineering  
 Data Science and Machine Learning  
-Database Design
+Database Design  
 
 
