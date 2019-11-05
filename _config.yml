@@ -23,10 +23,11 @@ description: ""
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "cv"
+  cv: "cv"
   Blog: "blog"
-  Better Coding Through Shakespeare: "BetterCodingThroughShakespeare"
   Slides: "slides"
+  Better Coding Through Shakespeare: "BetterCodingThroughShakespeare"
+  
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
