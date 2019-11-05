@@ -17,7 +17,7 @@ baseurl: ""
 =======
 >>>>>>> upstream/master
 # Name of website
-title: "Cody VanZandt"
+title: "Cody VanZandt!"
 
 # Short description of your site
 <<<<<<< HEAD
@@ -41,10 +41,15 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
 <<<<<<< HEAD
+<<<<<<< HEAD
   CV: "cv"
+=======
+  cv: "cv"
+>>>>>>> fb4a2787e191e1a6aa52717fc356f9de3551bd74
   Blog: "blog"
-  Better Coding Through Shakespeare: "BetterCodingThroughShakespeare"
   Slides: "slides"
+  Better Coding Through Shakespeare: "BetterCodingThroughShakespeare"
+  
 
 =======
   About Me: "aboutme"
