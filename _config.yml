@@ -1,6 +1,5 @@
 # --- General options --- #
 
-<<<<<<< HEAD
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -14,50 +13,21 @@ baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
-=======
->>>>>>> upstream/master
 # Name of website
-title: "Cody VanZandt!"
+title: "Cody VanZandt"
 
 # Short description of your site
-<<<<<<< HEAD
 description: ""
-=======
-description: A virtual proof that I'm awesome
-
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
-
-# baseurl should be an empty string
-#baseurl: ""
->>>>>>> upstream/master
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-<<<<<<< HEAD
-<<<<<<< HEAD
   CV: "cv"
-=======
-  cv: "cv"
->>>>>>> fb4a2787e191e1a6aa52717fc356f9de3551bd74
   Blog: "blog"
-  Slides: "slides"
   Better Coding Through Shakespeare: "BetterCodingThroughShakespeare"
-  
+  Slides: "slides"
 
-=======
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
->>>>>>> upstream/master
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -104,21 +74,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-<<<<<<< HEAD
   email: "codyvanzandt@wustl.edu"
   github: codyvanzandt
   twitter: CodyVanZandt
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: codyvanzandt
-=======
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
->>>>>>> upstream/master
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -134,10 +95,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-<<<<<<< HEAD
   google: true
-=======
->>>>>>> upstream/master
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -167,27 +125,21 @@ google_analytics: "UA-118777588-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-<<<<<<< HEAD
 disqus: "codyvanzandt"
 
 # If you want to use just-comments fill with the API Key
-=======
-# disqus: ""
-
-# If you want to use JustComments fill with the API Key
->>>>>>> upstream/master
 #just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
 
-# To use Staticman comments, fill in repository, branch, and endpoint
+# Staticman support
 staticman:
   repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
-    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
+    # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
     siteKey  : # Use your own site key, you need to apply for one on Google
     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
@@ -207,11 +159,7 @@ title-separator: ""
 
 # Collections
 collections:
-  highlights:
-    output: true
-
-# Ruby Date Format
-date_format: "%B %-d, %Y"
+  - highlights
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 

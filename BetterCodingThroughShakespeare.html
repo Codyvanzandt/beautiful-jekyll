@@ -6,7 +6,7 @@ use-site-title: false
 ---
 
 <div class="posts-list">
-  {% assign sorted = (site.highlights | sort: 'date') %}
+  {% assign sorted = site.highlights | sort: 'date' %}
   {% for post in sorted %}
     {% if post.highlight == "BetterCodingThroughShakespeare" %}
       <article class="post-preview">
