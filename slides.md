@@ -5,4 +5,4 @@ title: Presentation Slides
 
 [Narrative Technique in David Jones' *In Parenthesis*](/slides/in-parenthesis)
 
-[Sierpinski](/downloads/sierpinski.html)
+[Sierpinski Demo](/downloads/sierpinski.html)
