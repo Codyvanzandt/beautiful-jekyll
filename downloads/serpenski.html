@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" media="all" href="css/reset.css" /> <!-- reset css -->
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+
+<style>
+    body{ background-color: ivory; }
+    canvas{border:1px solid red;}
+</style>
+
+<script>
+
+	var x = 400;
+	var y = 400;
+
+	var x0 = 400;
+	var y0 = 100;
+
+	var x1 = 200;
+	var y1 = 700;
+
+	var x2 = 600;
+	var y2 = 700;
+
+    $(function(){
+
+	function getRandomInt(min, max) {
+	    min = Math.ceil(min);
+	    max = Math.floor(max);
+	    return Math.floor(Math.random() * (max - min + 1)) + min;
+	}
+
+
+        var canvas=document.getElementById("canvas");
+        var c=canvas.getContext("2d");
+
+         //loop function
+        function loop(){
+
+	   var choice = getRandomInt(0,2);
+
+	   if (choice == 0){
+		x = (x + x0) / 2;
+		y = (y + y0) / 2;
+	   }
+
+	   if (choice == 1){
+		x = (x + x1) / 2;
+		y = (y + y1) / 2;
+	   }
+
+	   if (choice == 2){
+		x = (x + x2) / 2;
+		y = (y + y2) / 2;
+	   }
+
+           // draw
+           c.beginPath();
+           c.arc(x,y, 2, 0, Math.PI*2, false);
+           c.fill();
+        }
+        var myTimer=setInterval(loop,10);       
+
+    }); // end $(function(){});
+</script>
+
+</head>
+
+<body>
+    <canvas id="canvas" width=800 height=800></canvas>
+</body>
+</html>
