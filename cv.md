@@ -60,7 +60,7 @@ Lamar University Texas Governor's School. Summer 2015.
 
 ### Workshops
 
-**Better Coding Through Shakespeare** 
+**Better Coding Through Shakespeare**   
 JPMorgan Chase & Co. August 2018.
 
 [**The Sorcerer's Code**](https://codyvanzandt.com/2018-08-31-sorcerers_code/)  
@@ -70,12 +70,10 @@ JPMorgan Chase & Co. July 2018.
 ## Proficiencies
 
 ### Languages
-**Spanish**
+**Spanish**    
 Intermediate.
 
 ### Technical Proficiencies
-Full-Stack Software Engineering
-
-Data Science and Machine Learning
+Full-Stack Software Engineering, Data Science and Machine Learning
 
 
