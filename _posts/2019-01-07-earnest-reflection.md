@@ -3,6 +3,7 @@ layout: post
 title: On Founding a Tiny Theatre Company
 tags: [theater, directing, teaching, reflections]
 show-avatar: true
+show-post: false
 ---
 
 
