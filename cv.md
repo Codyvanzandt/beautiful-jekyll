@@ -5,75 +5,95 @@ title: ""
 
 # Cody VanZandt
 
-[codyvanzandt@wustl.edu](mailto:codyvanzandt@wustl.edu)&nbsp;&nbsp;&nbsp;
+[cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com) | 
 [codyvanzandt.com](https://codyvanzandt.com)
+
+## Research and Teaching Interests
+early modern drama, digital humanities, humanities data science
 
 ## Education
 
-**Ph.D. Student in English**  
-Washington University in St. Louis. August 2019 - present
+**Ph.D. Student in English**\
+Washington University in St. Louis\
+August 2019 - present
 
-**B.A. in English and Computer Science**  
-Rice University. May 2017.
+**B.A. in English and Computer Science**\
+Rice University\
+May 2017
 
-## Fields of Study
-Digital Humanities, Transatlantic Modernism, Sociology of Literature
+## Employment
 
-## Professional Experience
+**Humanities Digital Workshop Summer Fellow**\
+Washington University in St. Louis\
+Summer 2020
 
-**Software Engineer**  
-JPMorgan Chase & Co. August 2017 - June 2019.
+**Software Engineer**\
+JPMorgan Chase & Co.\
+August 2017 - June 2019
 
-## Conference Papers and Symposia
+## Presentations
 
-**The American (Syllabus) Experiment**  
-Rice Undergraduate Research Symposium.  
-Rice University. 12 April 2017.
+**Finally Understand Python Imports**\
+JPMorgan Chase & Co.\
+February 2019
 
-## Theatrical Credits
+**Better Coding Through Shakespeare**   
+JPMorgan Chase & Co.\
+August 2018
 
-**The Importance of Being Earnest**  
-Director and Executive Producer.  
-Rice University. Spring 2017.
+[**The Sorcerer's Code**](https://codyvanzandt.com/2018-08-31-sorcerers_code/)\
+JPMorgan Chase & Co.\
+July 2018
 
-**Much Ado About Nothing**  
-Composer, actor (Balthasar).  
-Rice University. Fall 2015.
+**The American (Syllabus) Experiment**\
+Rice Undergraduate Research Symposium\
+Rice University\
+Spring 2017
 
 ## Teaching
 
-### Undergraduate Teaching
+**Commedia dell'Arte in Performace**\
+STEAM Academy Middle School, St. Louis MO.\
+Spring 2020
 
-**COLL 193: Introduction to Guitar**  
-Rice University. Spring 2016.
+**Introductory Python**\
+JPMorgan Chase & Co.\
+Calendar year 2018
 
-### Secondary School Teaching
+**COLL 193: Introduction to Guitar**\
+Rice University\
+Spring 2016
 
-**Introduction to Creative Writing**  
-Lamar University Texas Governor's School. Summer 2016.
+**Advanced Mental Mathematics**\
+Lamar University Texas Governor's School\
+Summer 2016
 
-**Advanced Mental Mathematics**  
-Lamar University Texas Governor's School. Summer 2016.
+**Introduction to Creative Writing**\
+Lamar University Texas Governor's School\
+Summer 2016
 
-**Musical Ensemble**  
-Lamar University Texas Governor's School. Summer 2015.
+**Musical Ensemble**\
+Lamar University Texas Governor's School\
+Summer 2014-2016
 
-### Workshops
+## Technical Proficiencies
+**Software Engineering**\
+Full-stack software engineering, especially in Python\
+HTML/CSS/Javascript, static site generators
 
-**Better Coding Through Shakespeare**   
-JPMorgan Chase & Co. August 2018.
+**Data Science**\
+Exploratory and confirmatory analysis, visualization, and communication\
+Python, Tidyverse-R
 
-[**The Sorcerer's Code**](https://codyvanzandt.com/2018-08-31-sorcerers_code/)  
-JPMorgan Chase & Co. July 2018.
+**Machine Learning**\
+Supervised and unsupervised modeling\
+scikit-learn, spaCy, gensim, caret
 
+**Network Analysis**\
+Analysis of networked data, especially of social and dramatic networks\
+Networkx, graph-tool, Gephi, d3.js
 
-## Proficiencies
-
-### Languages
-**Spanish**    
-Intermediate.
-
-### Technical Proficiencies
-Full-Stack Software Engineering, Data Science and Machine Learning
-
+## Languages
+**Spanish**  
+Reading knoweldge, conversational
 
