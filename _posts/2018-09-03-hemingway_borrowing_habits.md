@@ -3,6 +3,7 @@ layout: post
 title: "A Quick Look at Hemingway's Book-Borrowing Habits"
 tags: [research, hemingway, visualization, TheLostGeneration]
 show-avatar: true
+show-post: false
 ---
 
 How often did Ernest Hemingway check out books?
