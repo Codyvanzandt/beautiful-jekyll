@@ -98,7 +98,7 @@ Again, it isn't free, but your library likely has a copy!
 #### Humanistic Data Science
 
 For data science books specifically written for humanists, you'll want to check out Folgert Karsdorp's [Python Programming for the Humanities](http://www.karsdorp.io/python-course/),
-Brandon Walsh and Sarah Horowitz's [Introduction to Text Analysis](http://walshbr.com/textanalysiscoursebook/),
+Brandon Walsh & Sarah Horowitz's [Introduction to Text Analysis](http://walshbr.com/textanalysiscoursebook/),
 and Stéfan Sinclair & Geoffrey Rockwell's [The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/915579fc1c6926b8fcb2a38f95349a2d6cba00b5/ipynb/ArtOfLiteraryTextAnalysis.ipynb).
 
 I'd also enthusiastically recommend Andrew Piper's [The Fish and the Painting](https://r4thehumanities.home.blog/).
