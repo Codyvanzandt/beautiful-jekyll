@@ -33,11 +33,11 @@ August 2017 - June 2019
 
 ## Presentations
 
-**Finally Understand Python Imports**  
+[**Finally Understand Python Imports**](https://codyvanzandt.com/2020-02-15-imports/)  
 JPMorgan Chase & Co.  
 February 2019
 
-**Better Coding Through Shakespeare**   
+[**Better Coding Through Shakespeare**](https://codyvanzandt.com/2020-06-10-bcts/)   
 JPMorgan Chase & Co.  
 August 2018
 
