@@ -52,7 +52,7 @@ and it has better offerings for common digital humanities tasks like social netw
 
 #### Python Fundamentals
 
-My go-to recommendation for learning Python (and programming in general) is Rice University's [*Fundamentals of Computing*](https://www.coursera.org/specializations/computer-fundamentals) Coursera Specialization.
+My go-to recommendation for learning Python (and programming in general) is Rice University's [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) Coursera Specialization.
 
 This Specialization does an excellent job of teaching Python,
 and it really shines at teaching essential computational problem-solving skills that you can carry with you across programming languages and disciplines.
@@ -69,50 +69,50 @@ I took those courses as an undergrad and can confirm: the online offerings are *
 The in-person courses have more projects and assignments, but other than that, you're getting the real deal.
 These courses have served me *really* well through the years, and I feel super confident in recommending them to you!
 
-If, however, you prefer book-learning, give Allen B. Downey's (free!) book [*Think Python*](https://greenteapress.com/wp/think-python-2e/) a try!
+If, however, you prefer book-learning, give Allen B. Downey's (free!) book [Think Python](https://greenteapress.com/wp/think-python-2e/) a try!
 Downey has a rare talent for explaining technical concepts in clear, energetic prose without sacrificing accuracy. 
 His book also has plenty of exercises, although they're not as comprehensive or challenging as the Rice projects.
 
 #### Python Beyond the Fundamentals
 
-If you find that you *really* enjoy Python and you want to dive deep, you should check out Luciano Ramalho's [*Fluent Python*](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008).
+If you find that you *really* enjoy Python and you want to dive deep, you should check out Luciano Ramalho's [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008).
 It's a true Python *tour de force*, and although it isn't free, your library ought to have a copy (or an eBook). 
 
 #### Python Data Science Fundamentals
 
 After you're comfortable with Python, you'll want to pick up data science. 
 
-My go-to recommendation here is the University of Michigan's [*Applied Data Science with Python*](https://www.coursera.org/specializations/data-science-python) Coursera Specialization.
+My go-to recommendation here is the University of Michigan's [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) Coursera Specialization.
 You'll learn the whole data science workflow: acquiring, cleaning, manipulating, visualizing, modeling data.
 You'll also get experience with natural language processing and social network analysis, both of which are staples of computational humanities research.
 It's similar in structure to Rice's Python Specialization, and you choose between auditing for free or forking over some cash for graded projects.
 
-If you'd prefer a book, I think the best introductory data science text is [*Python for Data Analysis*](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/).
+If you'd prefer a book, I think the best introductory data science text is [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/).
 It isn't free, but it *is* sufficiently popular that your library ought to have a physical copy, an eBook subscription, or both!
 
 #### Python Data Science Beyond the Fundamentals
 
-Once you're ready to move past the basics, you should check out Aurélien Géron's [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646).
+Once you're ready to move past the basics, you should check out Aurélien Géron's [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646).
 Again, it isn't free, but your library likely has a copy!
 
 #### Humanistic Data Science
 
-For data science books specifically written for humanists, you'll want to check out Folgert Karsdorp's [*Python Programming for the Humanities*](http://www.karsdorp.io/python-course/),
-Brandon Walsh and Sarah Horowitz's [*Introduction to Text Analysis*](http://walshbr.com/textanalysiscoursebook/),
-and Stéfan Sinclair & Geoffrey Rockwell's [*The Art of Literary Text Analysis*](https://github.com/sgsinclair/alta/blob/915579fc1c6926b8fcb2a38f95349a2d6cba00b5/ipynb/ArtOfLiteraryTextAnalysis.ipynb).
+For data science books specifically written for humanists, you'll want to check out Folgert Karsdorp's [Python Programming for the Humanities](http://www.karsdorp.io/python-course/),
+Brandon Walsh and Sarah Horowitz's [Introduction to Text Analysis](http://walshbr.com/textanalysiscoursebook/),
+and Stéfan Sinclair & Geoffrey Rockwell's [The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/915579fc1c6926b8fcb2a38f95349a2d6cba00b5/ipynb/ArtOfLiteraryTextAnalysis.ipynb).
 
-I'd also enthusiastically recommend Andrew Piper's [*The Fish and the Painting*](https://r4thehumanities.home.blog/).
+I'd also enthusiastically recommend Andrew Piper's [The Fish and the Painting](https://r4thehumanities.home.blog/).
 It uses R instead of Python (and it's a work-in-progress), but it's still a must-read for Python folks.
 *The Fish and the Painting* focuses on the *conceptual framework* for humanistic data science rather than the nuts and bolts of programming languages and algorithms.
 It's excellent.
 
 You should also check out a few journals where humanistic data science-y work gets published. 
-The #1 must-read journal is [*Cultural Analytics*](https://culturalanalytics.org/).
+The #1 must-read journal is [Cultural Analytics](https://culturalanalytics.org/).
 The journal is dedicated to computationally-inflected humanities work, plus it's open-access!
-[*Digital Scholarship in the Humanities*](https://academic.oup.com/dsh) should also be on your list.
+[Digital Scholarship in the Humanities](https://academic.oup.com/dsh) should also be on your list.
 It draws lots of computational work, but it's a different crowd and vibe than *Cultural Analytics*.
 DHS seems more popular with folks whose primary disciplinary training is in computer science, whereas CA seems more popular with folks who trained primarily in a humanities discipline.
-[*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/) is also worth checking out. It publishes all sorts of DH work, not just the computational bits.
+[Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/) is also worth checking out. It publishes all sorts of DH work, not just the computational bits.
 
 
 ## The End?
