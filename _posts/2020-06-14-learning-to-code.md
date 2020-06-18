@@ -29,7 +29,7 @@ you to some terrible fate. There's every chance that you could fall in love and 
 
 ## Given All That, What Kind of Coding Should You Learn?
 You'll want to get comfortable with the [Python](https://www.python.org/) programming language. 
-It's tricky to say exactly how comfortable is *comfortable*, but to use a spoken language metaphor, you should be aiming for "I can hold down a conversation" and not "I'm basically a native speaker".
+It's tricky to say exactly how comfortable is *comfortable*, but to use spoken language as a metaphor, you should be aiming for "I can hold down a conversation" and not "I'm basically a native speaker".
 
 A single semester-length course in Python is enough to get the fundamentals under your fingers. 
 After a second course, you'll be quite comfortable with the language.
@@ -48,7 +48,7 @@ They're both excellent languages with different strengths and weaknesses. Many d
 You should learn one and then (optionally) pick up the other one later. I recommend that you start with Python. It's more flexible, more widely used,
 and it has better offerings for common digital humanities tasks like social network analysis and natural language processing.
 
-## What Specific Learning Resources Should I Use?
+## What Specific Learning Resources Should You Use?
 
 #### Python Fundamentals
 
