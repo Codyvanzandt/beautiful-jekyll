@@ -52,7 +52,7 @@ Spring 2017
 
 ## Teaching
 
-**Commedia dell'Arte in Performace**  
+**Commedia dell'Arte in Performance**  
 STEAM Academy Middle School  
 St. Louis, MO  
 Spring 2020  
