@@ -9,7 +9,7 @@ title: ""
 [codyvanzandt.com](https://codyvanzandt.com)
 
 ## Research and Teaching Interests
-early modern drama, digital humanities, humanities data science
+drama, digital humanities, humanities data science
 
 ## Education
 
