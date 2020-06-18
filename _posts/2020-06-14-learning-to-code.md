@@ -4,14 +4,15 @@ show-post: true
 title: Learning to Code for Computational Humanities Research
 ---
 
-Here's a super short summary of this long-ish post:
+Should you learn to code? If so, how much coding should you learn? What kind of coding should you learn? And how should you learn it? 
+
+If you're in the mood for direct answers, I've boiled down all my advice to a single paragraph. If you'd like all of the tasty explanations and justifications, read on!
 
 > You need to learn to code to do this kind of work. Specifically, you should learn the [Python programming language](https://www.python.org/) by auditing [these courses](https://www.coursera.org/specializations/computer-fundamentals),
 then learn data science by auditing [these courses](https://www.coursera.org/specializations/data-science-python). If you prefer books, read [this one](https://greenteapress.com/wp/think-python-2e/) then [this one](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/).
 You should also read [this](http://www.karsdorp.io/python-course), [this](http://walshbr.com/textanalysiscoursebook/), [this](https://github.com/sgsinclair/alta/blob/915579fc1c6926b8fcb2a38f95349a2d6cba00b5/ipynb/ArtOfLiteraryTextAnalysis.ipynb), and [this](https://r4thehumanities.home.blog/) to learn how humanistic data science works.
-Definitely read [this journal](https://culturalanalytics.org/) and [this one](https://academic.oup.com/dsh). If you have questions, <a href="mailto:cody.a.vanzandt@gmail.com">email me</a> -- I'd love to hear from you.
+Definitely read [this journal](https://culturalanalytics.org/) and [this one](https://academic.oup.com/dsh). If you have questions, <a href="mailto:cody.a.vanzandt@gmail.com">email me</a> -- I'd love to hear from you!
 
-*Whew!* Now that that's done, take a breath and then check out the rest of this post for all of the tasty detail, explanation, and nuance!
 
 ## Should You Learn to Code?
 
