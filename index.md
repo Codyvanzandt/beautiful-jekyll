@@ -6,12 +6,15 @@ use-site-title: true
 ---
 
 # About
-I'm currently a PhD student in English and American Literature at Washington University in St. Louis. Previously, I was a software engineer for JPMorgan Chase & Co. in Houston, Texas. 
+I'm currently a PhD student in English and American Literature at Washington University in St. Louis.
+I use computational methods to study genre, plot, and style.
+Accordingly, my biggest (inter)disciplinary commitments are to machine learning, network analysis, narrative theory, and formalisms both old and new.
 
-My scholarship focuses on computational approaches to literary study, particularly stylometry and network analysis of dramatic texts.
+I teach writing and literature, of course, but I'm amusingly easy to sell on more unusual teaching experiences.
+My pedagogical Greatest Hits include competitive mental math for elementary schoolers, commedia dell'arte for middle schoolers, *a cappella* for high schoolers, guitar for undergraduates, and software engineering for financial analysts. 
 
-I teach writing and literature, but I'm amusingly easy to sell on unusual teaching experiences. My more exotic teaching credits include: competitive mental math for primary schoolers, *a cappella* for secondary schoolers, guitar for undergraduates, and software engineering for financial analysts. 
+I enjoy acting and playing stringed instruments, and I even do those things publicly whenever someone is ~~foolish~~ kind enough to let me.
 
-Relatedly, I enjoy acting and playing stringed instruments. I even do those things publicly whenever someone is ~~foolish~~ kind enough to let me.
+I bluster on Twitter [@CodyVanZandt](https://twitter.com/CodyVanZandt), sling code on GitHub [@Codyvanzandt](https://github.com/Codyvanzandt), exist (at least nominally) on LinkedIn [@codyvanzandt](https://www.linkedin.com/codyvanzandt), and respond to email at <a href="cody.a.vanzandt@gmail.com">cody.a.vanzandt@gmail.com</a>.
 
-You can contact me [via email](mailto:cody.a.vanzandt@gmail.com).
+If you'd like to chat, feel free to send an email or a Twitter DM. 
