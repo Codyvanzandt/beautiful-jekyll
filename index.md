@@ -15,6 +15,6 @@ My pedagogical Greatest Hits include competitive mental math for elementary scho
 
 I enjoy acting and playing stringed instruments, and I even do those things publicly whenever someone is ~~foolish~~ kind enough to let me.
 
-I bluster on Twitter [@CodyVanZandt](https://twitter.com/CodyVanZandt), sling code on GitHub [@Codyvanzandt](https://github.com/Codyvanzandt), exist (at least nominally) on LinkedIn [@codyvanzandt](https://www.linkedin.com/codyvanzandt), and respond to email at <a href="cody.a.vanzandt@gmail.com">cody.a.vanzandt@gmail.com</a>.
+I bluster on Twitter [@CodyVanZandt](https://twitter.com/CodyVanZandt), sling code on GitHub [@Codyvanzandt](https://github.com/Codyvanzandt), exist (at least nominally) on LinkedIn [@codyvanzandt](https://www.linkedin.com/in/codyvanzandt), and respond to email at <a href="cody.a.vanzandt@gmail.com">cody.a.vanzandt@gmail.com</a>.
 
 If you'd like to chat, feel free to send an email or a Twitter DM. 
