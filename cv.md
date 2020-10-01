@@ -5,8 +5,7 @@ title: ""
 
 # Cody VanZandt
 
-[cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com) | 
-[codyvanzandt.com](https://codyvanzandt.com)
+[cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com)
 
 ## Research and Teaching Interests
 drama, narrative theory, digital humanities, humanities data science
