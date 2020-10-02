@@ -4,7 +4,7 @@ title: Cody VanZandt
 use-site-title: true
 ---
 
-# About
+# About Me
 I'm currently a PhD student in English and American Literature at Washington University in St. Louis.
 I use computational methods to study genre, plot, and style.
 Accordingly, my biggest (inter)disciplinary commitments are to machine learning, network analysis, narrative theory, and formalisms both old and new.
