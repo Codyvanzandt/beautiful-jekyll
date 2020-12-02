@@ -42,7 +42,7 @@ Now, given all of that, how could this solution be more computationally efficien
 
 ## The Naive Itertools Solution
 
-This solution is *almost* the same as the Naive Solution, but instead of building the pairs `(a,b)` yourself,
+This solution is *almost* the same as the Naive Solution, but instead of building the pairs `(a,b)` ourselves,
 we lean on a piece of fast and reliable code 
 built right into Python: the combinations function from the itertools module:
 
