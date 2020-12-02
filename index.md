@@ -6,7 +6,7 @@ use-site-title: true
 
 # About
 I'm a PhD student in English and American Literature at Washington University in St. Louis where I use computational methods to study genre, plot, and style.
-Accordingly, my biggest (inter)disciplinary commitments are to machine learning, network analysis, narrative theory, and formalisms both old and new.
+Accordingly, my biggest disciplinary commitments are to machine learning, network analysis, narrative theory, and formalisms both old and new.
 
 I teach writing and literature, of course, but I'm amusingly easy to sell on more unusual teaching experiences.
 My pedagogical Greatest Hits include competitive mental math for elementary schoolers, commedia dell'arte for middle schoolers, *a cappella* for high schoolers, guitar for undergraduates, and software engineering for financial analysts. 
