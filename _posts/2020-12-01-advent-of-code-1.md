@@ -21,7 +21,7 @@ programming problem. Keep reading for a comically in-depth look at what is suppo
 
 ## The Naive Solution
 
-Naively, we might loop through every pair of numbers (`a,b)` in `numbers`, returning `(a,b)` whenever
+Naively, we might loop through every pair of numbers `(a,b)` in `numbers`, returning `(a,b)` whenever
 `a + b == target`. 
 
 ```python
