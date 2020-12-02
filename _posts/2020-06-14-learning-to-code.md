@@ -33,7 +33,6 @@ You'll want to get comfortable with the [Python](https://www.python.org/) progra
 It's tricky to say exactly how comfortable is *comfortable*, but to use spoken language as a metaphor, you should be aiming for "I can hold down a conversation" and not "I'm basically a native speaker".
 
 A single semester-length course in Python is enough to get the fundamentals under your fingers. 
-After a second course, you'll be quite comfortable with the language.
 You can replace "course" with "quality textbook" and get similar results, as long as you commit to working through the coding exercises. 
 
 After picking up basic Python, you're ready to enter into the wide, *wide* world of data science.
@@ -46,7 +45,7 @@ differences affect the standard data science workflow.
 N.B.: Other folks might recommend you learn the R programming language instead of Python.
 There's a longstanding "Python vs. R" debate, the details of which aren't relevant to someone who just wants to learn how to code.
 They're both excellent languages with different strengths and weaknesses. Many digital humanists use both. I use both. 
-You should learn one and then (optionally) pick up the other one later. I recommend that you start with Python. It's more flexible, more widely used,
+You should learn one and then (optionally) pick up the other one later. I recommend that you start with Python. It's more flexible, more widely used outside academia,
 and it has better offerings for common digital humanities tasks like social network analysis and natural language processing.
 
 ## What Specific Learning Resources Should You Use?
