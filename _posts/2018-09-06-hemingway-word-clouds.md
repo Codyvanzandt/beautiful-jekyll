@@ -8,13 +8,16 @@ show-avatar: true
 What was Hemingway reading while writing *The Sun Also Rises*?
 
 I scraped, cleaned, parsed, and organized the books that he borrowing from the Shakespeare and Company lending library while he was writing *The Sun Also Rises*.
-Statistical analysis is forthcoming, but in the meanwhile, here are some fun (and maybe even enlightening) word clouds! 
+My in-depth analysis isn't quite public-ready (in short? Ivan Turgenev!), but in the silly and wonderful tradition of computational literary analysis, here are some word clouds!
+Feel free to gaze seriously at them and then speculate with wild hermeneutic abandon. I certainly have!
 
 The clouds are organized by part-of-speech with word-size corresponding to relative frequency. The common nouns are particularly compelling; I think they're 
 a better-than-fair approximation of a Hemingway topic model.
 
 If you'd like to download one of these clouds for closer inspection or see how they were generated, you can check out [this
 project's Github repository](https://github.com/Codyvanzandt/HemingwayStylometry).
+
+Also, you should 110% check out [Princeton's Shakespeare and Company Project](https://shakespeareandco.princeton.edu/) from which I'm drawing my data. Seriously, it's a top-notch digital humanities project.
 
 <center> <h2>Common Nouns</h2> </center>
 <figure>
