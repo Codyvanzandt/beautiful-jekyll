@@ -1,9 +1,10 @@
 ---
 layout: post
 show-post: true
-title: Advent of Code 2020: The First Puzzle
-subtitle: Hey, Look! A Simple Problem! (Not!)
+title: "Advent of Code 2020: The First Puzzle"
+subtitle: "Hey, Look! A Simple Problem! (Not)"
 ---
+
 
 The first [Advent of Code question](https://adventofcode.com/2020/day/1) question of the holiday season is a variation
 on a tried-and-true first-round software engineering interview question:
