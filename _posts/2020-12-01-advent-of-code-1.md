@@ -98,7 +98,7 @@ This little number `:=` is the recently(ish) introduced "walrus" operator:
 
 There's no need to use the walrus here, but it's a fancy and fun little feature worth knowing about!
 
-## The Efficient Data-Structure-y Itertools-y Solution
+## The Efficient Data-Structure-y Itertools Solution
 
 Lets change the problem such that we need to find *three* numbers `(a,b,c)` that add up to `target`
 instead of two. In this case, we can combine our set-based and itertools-based solutions to solve
@@ -148,7 +148,7 @@ A multiline, double-indented nested for-loop? That's a serious distraction that 
 But a one-line itertools solution? All of its distracting complexity is hidden 
 away in the itertools documentation, far from the real focus of the solution: the set-checking.
 
-## The Efficient Generic Data-Structure-y Itertools-y Solution
+## The Efficient Generic Data-Structure-y Itertools Solution
 
 For our last trick, we'll complicate the problem further than was required by the original Advent of Code question.
 Instead of finding a pair or a triple of numbers from `numbers` that adds up to `target`, what if pass another argument
