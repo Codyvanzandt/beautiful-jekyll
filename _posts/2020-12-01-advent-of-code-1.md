@@ -6,7 +6,7 @@ subtitle: "Hey, Look! A Simple Problem! (Not)"
 ---
 
 
-The first [Advent of Code question](https://adventofcode.com/2020/day/1) question of the holiday season is a variation
+The first [Advent of Code question](https://adventofcode.com/2020/day/1) of the holiday season is a variation
 on a tried-and-true first-round software engineering interview question:
 
 > Given a list of `numbers` and a `target` number, find a pair of numbers in `numbers`
